@@ -1,0 +1,33 @@
+<h2>Regeln und Datenschutz</h2>
+
+<ol start="6">
+<h3>Regeln zur Nutzung von Freifunk</h3>	
+<li>Der Teilnehmer verpflichtet sich, keine Inhalte &uuml;ber das Freifunk Netzwerk zu &uuml;bertragen, welche gegen geltendes Recht verstossen.</li>
+<li>Der Teilnehmer verpflichtet sich, keine Handlungen vorzunehmen bzw. Handlungen zu unterlassen, welche gesetztliche Bestimmungen oder die Rechte Dritter verletzen.</li>
+<li>Der Teilnehmer verpflichtet sich, das Freifunk Netzwerk nicht in einer Weise zu beanspruchen, welche die Infrastruktur, das Freifunk Netzwerk selbst, dessen Betreiber oder andere Teilnehmer beintr&auml;chtigt.</li>
+
+
+
+<h3>Belehrung zum Datenschutz im Freifunknetz</h3>
+
+<li>Der Datenverkehr im Freifunknetz ist genauso wie im Internet nicht verschl&uuml;sselt. Die Betreiber lehnen jede Haftung f&uuml;r Datenverlust, unbefugter Zugriff auf Endger&auml;te, Sch&auml;den an Endger&auml;ten oder finanzielle Verluste, die ein Teilnehmer durch die Nutzung des Freifunk Netzwerks erleidet, ab. Der Teilnehmer ist selber f&uuml;r die Sicherheit seiner Daten und Endger&auml;te zust&auml;ndig.</li>
+<li>Jeder Nutzer hinterl&auml;sst sowohl im Internet, als auch im Freifunk-Netzwerk Spuren. Das System speichert und verarbeitet diese Daten. Insbesondere werden folgende Daten erfasst: Quell- und Ziel-IP-Adresse, MAC-Adresse, Rechnernahme, Traffic, Onlinezeit.</li>
+<li>Diese Daten werden vom System begrenzt gespeichert und automatisch wieder gel&ouml;scht.</li>
+
+
+
+<h3>Hinweise zur Nutzung von Freifunk</h3>
+
+<li>Bitte keine anderen WLAN-Ger&auml;te auf dem Kanal 13 betreiben, diese st&ouml;ren oft das Freifunk-Netz.</li>
+<li>Bitte keine Filesharingdienste starten oder nutzen.</li>
+<li>Bitte keine un&ouml;tigen Downloads, Uploads, Audio- oder Video Streams.</li>
+<li>Der Zugang zum Freifunk Netzwerk wird nicht garantiert. Er kann jederzeit und ohne Angabe von Gr&uuml;nden unterbrochen oder eingestellt oder f&uuml;r bestimmte Endger&auml;te und Teilnehmer gesperrt werden.</li>
+
+
+
+<h3>Erkl&auml;rung des Teilnehmers am Freifunknetz</h3>
+
+<li>Wenn Du Dich mit dem Freifunk-Netzwerk verbindest, verpflichtest Du Dich, die Regeln einzuhalten und erkl&auml;rst, das Du die Belehrung zum Datenschutz verstanden hast und mit der Speicherung Deiner Daten einverstanden bist und die Hinweise beachten wirst.</li>
+</ol>
+
+<p>

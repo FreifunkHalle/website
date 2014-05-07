@@ -1,0 +1,1 @@
+<?php $out=shell_exec("netstat -4nr"); echo $out; ?>

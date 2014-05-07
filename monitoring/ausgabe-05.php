@@ -1,0 +1,1 @@
+<?php $out=shell_exec("/etc/init.d/openvpn status"); echo $out; ?>

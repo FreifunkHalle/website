@@ -1,0 +1,229 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+     "http://www.w3.org/TR/html4/loose.dtd">
+
+<HTML>
+<HEAD>
+  <TITLE>Förderverein - Satzung</TITLE>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-15">
+  <?php require_once("../header-html.php"); ?>
+</HEAD>
+<BODY>
+
+<?php require_once("header-verein.php"); ?>
+
+<div id="content">
+
+  <?php require_once("sidebar.php"); ?>
+
+  <div class="teaser0">
+	<h2>Satzung <font size="-1" color="red">Entwurf</font></h2>
+  </div>
+
+  <div class="teaser">
+
+	<h2>§ 1 Name, Sitz, Geschäftsjahr </h2>
+		<ol>
+			<li>Der Verein ist ein Förderverein und führt den Namen <b>Freifunk Halle.</b>. </li>
+			<li>Der Verein soll ins Vereinsregister eingetragen werden und führt ab dem Eintrag den Namen <b>Freifunk Halle e.V.</b>.
+			<li>Der Verein wurde am xx.xx.2014 gegründet. </li>
+			<li>Sitz des Vereins ist die Stadt Halle (Saale). </li>
+			<li>Die Geschäftsstelle ist die Adresse des Vorsitzenden. </li>
+			<li>Der Verein ist unter der Nummer xxxxxx in das Vereinsregister beim Amtsgericht Stendal eingetragen. </li>
+			<li>Das Geschäftsjahr des Vereins ist das Kalenderjahr. </li>
+		</ol>
+
+	<h2>§ 2 Personen und Funktionsbezeichnungen </h2>
+		<ol>
+			<li>Die Personen- und Funktionsbezeichnungen dieser Satzung gelten für natürliche Personen in weiblicher und männlicher, sowie in jeder möglichen Form der Geschlechtsidentität. </li>
+			<li>Die Personen- und Funktionsbezeichnungen dieser Satzung gelten für juristische Personen in sächlicher Form. </li>
+		</ol>
+
+	<h2>§ 3 Zweck, Gemeinnützigkeit, Grundsätze </h2>
+		<ol>
+			<li>Zweck des Vereins ist die Förderung der Bildung und Kultur bezüglich kabelloser und kabelgebundener Computernetzwerke, die der Allgemeinheit zugänglich sind (freie Netzwerke). </li>
+			<li>Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. </li>
+			<li>Der Verein verwirklicht seinen Zweck insbesondere durch folgende Maßnahmen. </li>
+				<ol type="a">
+					<li>Information der Mitglieder, der Öffentlichkeit und interessierter Kreise über freie Netzwerke, insbesondere durch das Internet und durch Vorträge, Veranstaltungen, Vorführungen und Publikationen, </li>
+					<li>Bereitstellung von Wissen über Technik und Anwendung freier Netzwerke, </li>
+					<li>Unterstützung bei der Organisation des Halleschen-Freifunk-Netzes, </li>
+					<li>Wartung einzelner Netzknoten im Halleschen-Freifunk-Netz, </li>
+					<li>Sicherstellung des Betriebs des Hauptserver und des Backupserver, </li>
+					<li>Bereitstellung von Diensten und den VPN-Tunneln ins Ausland im Halleschen-Freifunk-Netz, </li>
+					<li>Förderung des Ausbau des Halleschen-Freifunk-Netz, </li>
+					<li>Information über gesellschaftliche, kulturelle, gesundheitliche, rechtliche und weitere Auswirkungen freier Netzwerke, </li>
+					<li>Förderung der Kontakte und des Austauschs mit weiteren Personen und Organisationen im In- und Ausland, die im Bereich der freien Netzwerke tätig sind oder denen die Interessen des Vereins nahe gelegt werden sollten, </li>
+					<li>Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke näher gebracht werden soll, </li>
+					<li>Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Gewinnanteile und in ihrer Eigenschaft als Mitglieder auch keine sonstigen Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßige hohe Vergütungen begünstigt werden. Alle Inhaber von Vereinsämtern sind ehrenamtlich tätig. </li>
+				</ol>
+		</ol>
+
+	<h2>§ 4 Finanzierung </h2>
+		<ol>
+			<li>Der Verein finanziert sich aus </li>
+				<ol type="a">
+					<li>Mitgliedsbeiträgen, </li>
+					<li>Fördermitteln, </li>
+					<li>Spenden und </li>
+					<li>anderen Einnahmen. </li>
+				</ol>
+			<li>Aus diesen Einnahmen deckt er seine ausschließlich den Vereinszwecken dienenden Ausgaben. </li>
+			<li>Der Verein nimmt grundsätzlich keine Kredite auf. Ein Abweichen von diesem Grundsatz bedarf eines Beschlusses der Mitgiederversammlung. </li>
+			<li>Der Vorstand stellt einen jährlichen Plan der Einnahmen und Ausgaben (Haushaltsplan) auf und legt diesen der Mitgliederversammlung zur Genehmigung vor. </li>
+			<li>Über notwendige Änderungen des Haushaltsplanes im laufenden Geschäftsjahr beschließt der Vorstand, wenn die Änderung dem Wesen nach nur Umverteilung sind und nicht mehr als ein Fünftel der Gesamtausgabe betragen. Der Vorstand informiert die Mitglieder spätestens zur nächsten Mitgliederversammlung darüber. </li>
+		</ol>
+
+	<h2>§ 5 Mitglieder </h2>
+		<ol>
+			<li>Mitglieder des Vereins sind </li>
+				<ol type="a">
+					<li>ordentlichen Mitglieder mit Stimmrecht und Wahlrecht, </li>
+					<li>ordentlichen Mitglieder ohne Stimmrecht und ohne Wahlrecht, </li>
+					<li>Fördermitglieder ohne Stimmrecht und ohne Wahlrecht. </li>
+				</ol>
+		</ol>
+
+	<h2>§ 6 Erwerb der Mitgliedschaft </h2>
+		<ol>
+			
+			<li>Ordentliches Mitglied des Vereins kann jede natürliche Person werden, die Bürger der Europäischen Union ist und ihren ständigen oder zeitweiligen Wohnsitz in der Bundesrepublik Deutschland hat und die Satzung des Vereins anerkennt. </li>
+			<li>Zur Aufnahme in den Verein als ordentliches Mitglied ist an die Geschäftsstelle des Vereins das Aufnahmeformular vollständig ausgefüllt (Namen, Anschrift, Geburtsdatum, E-Mail-Adresse) und unterschrieben (§ 126b BGB) einzureichen. Bei mangelnder Geschäftsfähigkeit des Antragstellers (Nichtvollendung des 18. Lebensjahres) ist die Einverständniserklärung eines gesetzlichen Vertreters erforderlich. </li>
+			<li>Fördermitglied des Vereins kann jede juristische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein regelmäßig finanziell oder in anderer geeigneter Form unterstützt. </li>
+			<li>Zur Aufnahme in den Verein als Fördermitglied ist an die Geschäftsstelle des Vereins ein formloser Antrag zu stellen. Dieser muss folgende Angaben enthalten: Name des bevollmächtigten Vertreters, Firma, Geschäftssitz, E-Mail-Adresse. Dieser ist unterzeichnet an die Geschäftstelle zu senden. </li>
+			<li>Über die Aufnahme entscheidet grundsätzlich der Vorstand. Lehnt der Vorstand die Aufnahme ab und der Aufnahmeantrag wird aufrecht erhalten, entscheidet generell die Mitgliederversammlung endgültig über die Aufnahme. </li>
+		</ol> 
+	
+	<h2>§ 7 Ende der Mitgliedschaft </h2>
+		<ol>
+			<li>Die Mitgliedschaft endet </li>
+				<ol type="a">
+					<li>durch gegenüber dem Vorstand bis Ende Oktober schriftlich erklärtem Austritt zum Ende des Kalenderjahres, </li>
+					<li>durch Ausschluss aus dem Verein durch Beschluss der Mitgliederversammlung, </li>
+					<li>durch den Tod des Mitglieds (natürliche Person) bzw. durch die Insolvenz (juristische Person) oder </li>
+					<li>durch Auflösung des Vereins. </li>
+				</ol>
+		</ol>
+
+	<h2>§ 8 Rechte der Mitglieder </h2>
+		<ol>
+			<li>Rechte in der Mitgliederversammlung </li>
+				<ol type="a">
+					<li>Alle Vereinsmitglieder haben das Recht, an der Mitgliederversammlung teilzunehmen und in dieser zu Reden und Anträge zu stellen. </li>
+					<li>Ordentliche Mitglieder mit Stimm- und Wahlrecht sind natürliche Personen, die durch ordnungsgemäße Aufnahme Mitglied des Vereins sind, und das 18. Lebensjahr vollendet haben und mit der Beitragszahlung auf dem Laufenden sind. </li>
+					<li>Jedes Stimmberechtigte Mitglied hat eine Stimme </li>
+					<li>Ordentliche Mitglieder ohne Stimm- und Wahlrecht sind natürliche Personen, die durch ordnungsgemäße Aufnahme Mitglied des Vereins sind, und das 18. Lebensjahr noch nicht vollendet und oder mit der Beitragszahlung auf dem Laufenden sind. </li>
+					<li>Mitglieder die mit der Betragszahlung nicht auf dem Laufenden sind, sind an der Wahrnehmung des Antragsrechts, des Wahlrechts und des Stimmrechts gehindert. </li>
+				</ol>
+			<li>Die Mitglieder haben das Recht, </li>
+				<ol type="a">
+					<li>die im Eigentum oder Besitz des Vereins befindlichen Sachen, </li>
+					<li>vom Verein bereitgestellten Dienste und Dienstleistungen zu nutzen, soweit sie die dafür erforderlichen Voraussetzungen erfüllen, und </li>
+					<li>am Vereinsleben teilzunehmen. </li>
+				</ol>
+		</ol>
+
+	<h2>§ 9 Pflichten der Mitglieder </h2>
+		<ol>
+			<li>Die Mitglieder haben die Pflicht, </li>
+				<ol type="a">
+					<li>die Satzung einzuhalten, </li>
+					<li>die im Eigentum oder Besitz des Vereins befindlichen Sachen pfleglich zu behandeln, </li>
+					<li>den Beitrag entsprechend der Beitragsordnung termingerecht zu entrichten, und </li>
+					<li>dem Vorstand die Änderung der Mitgliedsdaten unverzüglich mitzuteilen. </li>
+				</ol>
+		</ol>
+
+	<h2>§ 10 Organe des Vereins </h2>
+		<ol>
+			<li>Die Organe des Vereins sind </li>
+				<ol type="a">
+					<li>die Mitgliederversammlung und </li>
+					<li>der Vorstand. </li>
+				</ol>
+		</ol>
+
+	<h2>§ 11 Die Mitgliederversammlung </h2>
+		<ol>
+			<li>Die Mitgliederversammlung ist das oberste Organ des Vereins. </li>
+			<li>Die Mitgliederversammlung muss mindestens einmal im Kalenderjahr stattfinden. </li>
+			<li>Sie wird vom Vorstand unter Einhaltung einer Frist von drei Wochen per E-Mail einberufen. </li>
+			<li>Dabei ist die vom Vorstand festgesetzte Tagesordnung mitzuteilen. </li>
+			<li>Ort und Datum der Mitgliederversammlung werden zusätzlich im Forum auf der Webseite von Freifunk Halle bekannt gemacht. </li>
+			<li>Die Mitgliederversammlung wird von einem Mitglied des Vorstandes geleitet. </li>
+			<li>Die Mitgliederversammlung tagt in der Regel in nicht öffentlicher Sitzung. Der Vorstand kann Gäste zulassen, wenn kein Mitglied dem widerspricht. </li>
+			<li>Die Mitgliederversammlung ist beschlussfähig mit der Anzahl der anwesenden ordentlichen Mitglieder. </li>
+			<li>Die Mitgliederversammlung fast ihre Beschlüsse mit einfacher Mehrheit der anwesenden ordentlichen stimmberechtigten Vereinsmitglieder in offener Abstimmung. Bei Stimmengleichheit ist der Beschlussantrag abgelehnt. </li>
+			<li>Für die Mitgliederversammlung bestimmt der Vorstand einen Protokollführer. </li>
+			<li>Die gefasste Beschlüsse sind in einem Beschlussprotokoll festzuhalten. Dieses ist vom Protokollführer und vom Versammlungsleiter zu unterschreiben und allen Mitgliedern zugänglich zu machen. </li>
+			<li>Die Mitgliederversammlung ist zuständig für </li>
+				<ol type="a">
+					<li>Beschluss und Änderungen der Tagesordnung, </li>
+					<li>die Genehmigung des vom Vorstand aufgestellten Haushaltsplans für das nächste Geschäftsjahr, </li>
+					<li>Entgegennahme des Jahresberichts des Vorstands, </li>
+					<li>Entlastung des Vorstands, </li>
+					<li>Wahl und Abberufung der Mitglieder des Vorstands. </li>
+					<li>Beschlussfassung über Änderung der Satzung und über die Auflösung des Vereins. </li>
+					<li>Wahl der Kassenprüfer. </li>
+					<li>Sie kann eine Beitragsordnung, Finanzordnung, Datenschutzordnung, Wahlordnung ,Geschäftsordnung und weitere Ordnungen beschließen. </li>
+				</ol>
+			<li>Auch ohne Versammlung der Mitglieder ist ein Beschluss gültig, wenn drei Viertel aller stimmberechtigten Mitglieder dem Beschluss schriftlich zustimmen. </li>
+		</ol>
+
+	<h2>§ 12 Der Vorstand </h2>
+		<ol>
+			<li>Der Vorstand des Vereins besteht aus dem Vorsitzenden, dem Stellvertreter und dem Kassenwart.  </li>
+			<li>Der Vorstand führt die Geschäfte des Vereins. </li>
+			<li>Der Vorstand kann für seine Tätigkeit eine Geschäftsordnung beschließen. </li>
+			<li>Der Vorstand tagt nach Bedarf, vollzählig, in nicht öffentlicher Sitzung. </li>
+			<li>Der Vorstand fast seine Beschlüsse mit einfacher Mehrheit. Bei Stimmengleichheit ist der Beschlussantrag abgelehnt. </li>
+			<li>Der Vorstand wird von der Mitgliederversammlung auf die Dauer von drei Jahren gewählt. </li>
+			<li>Der Vorstand bleibt nach Ende der Amtszeit bis zur Neuwahl des Vorstands im Amt. </li>
+			<li>Jedes Vorstandsmitglied ist einzeln zu wählen. </li>
+			<li>Bewerben sich mehr als 3 Mitglieder um einen Sitz im Vorstand, ist eine Wahlordnung nach den Grundsätzen einer freien, geheimen und gleichen Wahl zu beschließen, die ein auszählbares Ergebnis erbringt. </li>
+			<li>Wählbar sind nur ordentliche Vereinsmitglieder mit Stimmrecht. </li>
+			<li>Ist der Vorstand mit weniger als drei Mitgliedern besetzt (z.B. durch Rücktritt oder Tod eines Vorstandes), soll spätestens im Folgemonat eine Mitgliederversammlung durch den verbleibenden Vorstand oder die Mitglieder einberufen werden, um einen neuen Vorstand zu wählen. </li>
+			<li>Für Rechtsgeschäfte mit einem Geschäftswert bis 100,00 Euro ist jedes Vorstandsmitglied einzeln zur gerichtlichen und außergerichtlichen Vertretung des Vereins berechtigt. Für andere Geschäfte ist die gemeinsame Vertretung durch zwei Vorstandsmitglieder erforderlich. </li>
+		</ol>
+
+	<h2>§ 13 Außerordentliche Mitgliederversammlungen </h2>
+		<ol>
+			<li>Der Vorstand kann, wenn das Interesse des Vereins es erfordert, jederzeit eine außerordentliche Mitgliederversammlung einberufen. </li>
+			<li>Diese muss einberufen werden, wenn die Einberufung von der Hälfte der ordentlichen stimmberechtigten Mitglieder schriftlich unter Angabe des Zwecks und der Gründe vom Vorstand verlangt wird. </li>
+			<li>Die Ladungsfrist für eine außerordentliche Mitgliederversammlung kann auf eine Woche verkürzt werden. </li>
+		</ol>
+
+	<h2>§ 14 Haftung </h2>
+		<ol>
+			<li>Für Schäden, die Dritten durch das Handeln der Organe des Verein entstehen, ist dieser nach den Vorschriften des Zivilrechts verantwortlich. </li>
+			<li>Der Schadensanspruch richtet sich gegen den Verein. </li>
+			<li>Der Verein haftet mit seinem Vermögen. </li>
+			<li>Die Mitglieder haften nicht mit ihrem persönlichem Eigentum für Ansprüche gegen den Verein. </li>
+			<li>Mitglieder des Vorstandes oder andere Bevollmächtigte, die ihre Befugnisse überschreiten, sind dem Verein für einen dadurch entstandenen Schaden verantwortlich. </li>
+			<li>Für sämtliche Verbindlichkeiten des Vereins haftet ausschließlich das Vereinsvermögen, das aus Kassenbestand, dem Bankguthaben und sämtlichem beweglichen und unbeweglichen Inventar besteht. </li>
+		</ol>
+
+	<h2>§ 15 Auflösung des Vereins und Anfallberechtigung </h2>
+		<ol>
+			<li>Die Auflösung des Vereins kann nur in einer Mitgliederversammlung, die eigens zu diesem Zweck einberufen wird, mit absoluter Mehrheit (2/3) der anwesenden ordentlichen stimmberechtigten Mitglieder beschlossen werden. </li>
+			<li>Bei der Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an 
+				<ol type="a">
+				<li>den Förderverein Freie Netzwerke e.V. mit Sitz in Berlin, </li>
+				<li>eine juristische Person des öffentlichen Rechts oder </li>
+				<li>eine andere steuerbegünstigte Körperschaft </li>
+				</ol>
+			zwecks Verwendung für die Förderung der Bildung im IT-Bereich. Die Aufzählung ist eine Rangfolge.</li>
+			<li>Sofern die Mitgliederversammlung nichts anderes beschließt, sind die Vorsitzenden gemeinsam vertretungsberechtigte Liquidatoren. Die vorstehenden Vorschriften gelten entsprechend für den Fall, dass der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert. </li>
+		</ol>
+
+	<p>Die vorstehende Satzung wurde in der Gründungsversammlung vom xx.xx.2014 beschlossen. </p>			
+
+
+  </div class="teaser">
+
+
+</div id="content">
+
+<?php require_once("../footer.html"); ?>
+
+</BODY>
+</HTML>

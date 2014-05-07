@@ -1,0 +1,32 @@
+@page {
+        size: landscape;
+}
+h1 {
+        display: none;
+}
+#helpbar {
+        display: none;
+}
+#sidebar {
+        display: none;
+}
+#menubar {
+        display: none;
+}
+#map {
+        width:100%;
+        margin: 0;
+        padding: 0;
+}
+#content {
+        width:100%;
+        margin: 0;
+        border: none;
+        padding: 0;
+}
+#footer {
+        display: none;
+}
+#header {
+        display: none;
+}

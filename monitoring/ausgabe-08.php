@@ -1,0 +1,1 @@
+<?php $out=shell_exec("wget -q -O - http://127.0.0.1:2006/neighbors |grep 10 |wc -l") ; echo $out; ?>

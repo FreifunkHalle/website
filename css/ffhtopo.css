@@ -1,0 +1,131 @@
+﻿	#content {
+		width: 100%;
+		clear: both ;
+		float: left ;
+	}
+	
+	h1 {
+		color: #ffffff;
+		width: 100%;
+		font-weight: bolder;
+		font-size: 1em;
+	}
+	
+	#info {
+		width: 100%;
+		font-weight: bolder;
+		font-size: 0.7em;
+	}
+	
+	.mtMenuInactive {
+		cursor: pointer;
+		background-color: #444444;
+		color: #cccccc;
+		font-size: 0.7em;
+		border: 1px solid #999999;
+		padding: 5px;
+		margin-right: 5px;
+		margin-left: 2px;
+		font-weight: bold;
+		border-top-right-radius: 9px;
+		border-top-left-radius: 9px;
+	}
+	
+	.mtMenuInactive:hover {
+		background-color: #eeeeee;
+	}
+	
+	.mtMenuActive {
+		cursor: pointer;
+		background-color: #333333;
+		color: #ffffff;
+		font-size: 0.7em;
+		border-top: 1px solid #999999;
+		border-left: 1px solid #999999;
+		border-right: 1px solid #999999;
+		border-bottom: 1px solid #333333;
+		padding: 6px;
+		margin-right: 5px;
+		margin-left: 2px;
+		font-weight: bold;
+		border-top-right-radius: 9px;
+		border-top-left-radius: 9px;		
+	}
+	
+	.mtLegend, .mtBlock {
+		font-size: 0.8em;
+		font-weight: bold;
+		padding: 5px;
+		background-color: #FFCB05;
+		color: #ffffff;
+		margin-left: 5px;
+		margin-bottom: 5px;
+		border: 1px solid #cccccc;	
+	}
+	
+	.mtBlock {
+		font-weight: normal;
+	}
+	
+	.mtLegendCaption {
+		font-weight: bold;
+		text-decoration: underline;
+		margin-bottom: 3px;
+	}
+	
+	.mtItemSelector {
+		font-size: 0.8em;
+		width:98%;
+	}
+	
+	#innercontent {
+		margin: 1px;
+		border: 1px solid black;
+	}
+	
+	#sidebar {
+		width: 25%;
+		float: right;
+		margin-right:2px;
+		overflow:auto;
+		margin-bottom:2px;
+	}
+	
+	#map {
+		margin-right:230px;
+		margin-left:2px;
+		border: 1px solid #cccccc;
+                overflow: hidden;
+	}
+	
+	#menubar {
+		width: 100% ;
+		background: #fff ;
+		clear:both;
+    		float: left ;
+    		border-left: 1px solid #ccc ;
+    		border-right: 1px solid #333 ;
+	}
+	
+	#helpbar {
+		float: right;
+		text-align: right;
+		vertical-align: bottom;
+		font-size: 0.6em;
+		font-weight: bold;
+		padding-right:3px;
+	}
+	
+	button, input {
+		font-size: 0.8em;
+	}
+	
+	#mtAddressLookup {
+		width: 12em;
+	}
+        .gm-style-iw {
+            overflow-y: scroll;
+        }
+        .olFramedCloudPopupContent {
+            font-size: 0.7em;
+        }

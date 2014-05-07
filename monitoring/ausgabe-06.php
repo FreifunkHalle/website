@@ -1,0 +1,1 @@
+<?php $out=shell_exec("free -h"); echo $out; ?>

@@ -1,0 +1,83 @@
+{
+  "name": "Freifunk Halle",
+  "url": "http://www.freifunk-halle.net",
+  "location": {
+    "city": "Halle",
+    "country": "DE",
+    "lat": 51.482,
+    "lon": 11.97,
+    "address": {
+      "Name": "Eigenbaukombinat e.V.",
+      "Street": "Julius-Ebeling-Str. 9",
+      "Zipcode": "06112"
+    }
+  },
+  "contact": {
+    "email": "kontakt@freifunk-halle.net"
+    "twitter": "@freifunkhalle"
+  },
+  "state": {
+    "nodes": 40,
+    "message": "open for public",
+    "lastchange": "2014-03-25T11:18:40.860Z"
+  },
+  "feeds": [
+    {
+      "name": "Neuste Foreneinträge",
+      "category": "forum",
+      "type": "rss",
+      "url": "https://www.freifunk-halle.net/forum/rss.php"
+    }
+  ],
+  "nodeMaps": [
+    {
+      "url": "http://www.freifunk-halle.net/Map/",
+      "interval": "1h",
+      "mapType": "geographical"
+    },
+    {
+      "url": "http://www.freifunk-halle.net/Map/osm.php",
+      "interval": "1h",
+      "mapType": "geographical"
+    },
+    {
+      "url": "http://www.freifunk-halle.net/Map/ve6.php",
+      "interval": "1h",
+      "mapType": "geographical"
+    },
+    {
+      "url": "http://www.freifunk-halle.net/topologie.php",
+      "interval": "live",
+      "mapType": "structural"
+    },
+    {
+      "url": "http://www.freifunk-halle.net/netz-status/viz-index.php",
+      "interval": "live",
+      "technicalType": "olsr-dot",
+      "mapType": "structural"
+    }
+  ],
+  "techDetails": {
+    "stoererhaftung": "VPN nach Schweden und Rumänien",
+    "bootstrap": "Nach Anleitung im wiki oder beim Treffen",
+    "firmware": {
+      "url": "http://www.freifunk-halle.net/mediawiki/wiki/Firmware"
+    },
+    "tld": {
+      "domainname": "olsr"
+    },
+    "networks": {
+      "ipv4": [
+        {
+          "network": "104.62.0.0/16"
+        }
+      ]
+    },
+    "routing": "OLSR",
+    "splashpage": "OpenWrt Splash Package",
+    "topodata": "http://freifunk-halle.net/Tools/Topology.ashx?format=dot&zeig=0",
+    "updatemode": "noch gar nicht",
+    "vpn": "Openvpn mit Zertifikaten"
+  },
+  "api": "0.3.0"
+}

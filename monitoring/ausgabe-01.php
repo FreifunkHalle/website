@@ -1,0 +1,1 @@
+<?php date_default_timezone_set('Europe/Berlin'); $datum = date("d.m.Y"); $uhrzeit = date("H:i"); echo "Hauptserver ", $_SERVER['SERVER_NAME']," am ", $datum," um ",$uhrzeit," Uhr von " ,$_SERVER['REMOTE_ADDR']; ?>
