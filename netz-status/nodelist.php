@@ -13,8 +13,8 @@
 <BODY>
 <?php include_once("../header.php"); ?>
 <?php 
-  $response = str_replace("\ "," ", str_replace("\.",".", get_web_page("http://www.freifunk-halle.net/Tools/WikiJSON.ashx")));
-  $data = json_decode($response,true);
+  $response = str_replace("\)",")", str_replace("\(","(", str_replace("\ "," ", str_replace("\.",".", get_web_page("http://www.freifunk-halle.net/Tools/WikiJSON.ashx")))));
+  $data = json_decode($response, true);
   $topo = $data["topo"];
   $online=0;
   $tun=0;
