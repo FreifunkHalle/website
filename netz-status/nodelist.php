@@ -16,6 +16,7 @@
   $response = str_replace("\)",")", str_replace("\(","(", str_replace("\ "," ", str_replace("\.",".", get_web_page("http://www.freifunk-halle.net/Tools/WikiJSON.ashx")))));
   $data = json_decode($response, true);
   $topo = $data["topo"];
+  uksort($topo, ipSortFunc);
   $online=0;
   $tun=0;
   $time = time();

@@ -43,5 +43,15 @@ function etx($lq, $nlq)
         return number_format(1/($lq*$nlq),3);
 }
 
+function ipSortFunc($ip1, $ip2){
+	$ip1Parts = explode(".", $ip1);
+	$ip2Parts = explode(".", $ip2);
+	for ($i=0; $i<4; $i++){
+		if ($ip1Parts[$i]==$ip2Parts[$i]) continue;
+		return $ip1Parts[$i]<$ip2Parts[$i]?-1:1;
+	}
+	return 0;
+}
+
 
 ?>
