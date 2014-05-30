@@ -28,6 +28,11 @@
       "type": "rss",
       "url": "https://www.freifunk-halle.net/forum/rss.php"
     }
+    {
+	"name": "Freifunk Halle Kalender",
+	"category": "ics",
+	"url": "http://www.freifunk-halle.net/shared_calendar.php"
+    }
   ],
   "nodeMaps": [
     {
