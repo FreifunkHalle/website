@@ -38,7 +38,7 @@
           <a target="_top" href="/wir-links-mitmachen/wir.php" title="Wer wir sind">&Uuml;ber uns</a>
         </li>
 	<li>
-          <a target="_top" href="/verein/" title="F&ouml;rderverein Freie Netzwerke Halle">Verein</a>
+          <a target="_top" href="/verein/" title="F&ouml;rderverein Freie Netzwerke Halle">F&ouml;rderverein</a>
         </li>
       </ul>
     </li>

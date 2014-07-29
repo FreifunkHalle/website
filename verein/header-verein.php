@@ -8,7 +8,7 @@
 
 
     <li class="dropdown">
-      <a class="menulink" target="_top" href="/verein/index.php">Verein</a>
+      <a class="menulink" target="_top" href="/verein/index.php">F&ouml;rderverein</a>
       <ul class="dropdown-menulink">
 	<li>
           <a target="_top" href="/verein/aufnahmeantrag.php">Aufnahme</a>

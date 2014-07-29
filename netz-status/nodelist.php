@@ -33,6 +33,9 @@
         <h2>Listen-Abfrage von </h2>
         <p><b>IP-Adresse: <a target="_blank" href="http://<?php echo $_SERVER['REMOTE_ADDR']; ?>/cgi-bin-nodes.html"><?php echo $_SERVER['REMOTE_ADDR']; ?></a></b></p>
 
+	<h2>Z&aumlhler Wlan-Nutzer</h2>
+	<p>Summe: <b><?php require_once("http://104.62.1.1/counter-wlan-nutzer.txt"); ?></b>
+
         <h2>Bitte beachten!</h2>
         <p>Die Listendaten werden einmal pro Stunde aktuallisiert.</p>
 	 <p>In der Liste erscheinen nur die Netzknoten, auf denen Botinfo installiert ist.

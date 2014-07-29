@@ -12,16 +12,16 @@
 	<h2>Vorstand</h2>
 	<p>Mitglieder des Vorstandes 
 	<ul>
-	<li>Vorname Name</li>
-	<li>Vorname Name</li>
-	<li>Vorname Name</li>
+	<li>Klaus Müller</li>
+	<li>Matthias Fuhrmeister</li>
+	<li>Daniel Tobias Franke</li>
 	</ul>
 
 	<h2>Geschäftsstelle</h2>
-	<p>Vorname Name 
+	<p>Klaus Müller 
 	<br><font size="-2">Verein Freifunk Halle </font>
-	<br>Straße Hausnummer 
-	<br>061XX Halle (Saale)
+	<br>Diesterwegstr. 35 
+	<br>06128 Halle (Saale)
 
 	<h2>Vereinsregister</h2>
 	<p>Der gemeinnützige Verein ist im Vereinsregister des Amtsgerichts Stendal unter der 
@@ -32,19 +32,7 @@
 	<p>Wenn du spenden möchtest, nimm Kontakt zu uns auf. 
 
 	<h2>Vereinsgründung</h2>
-	<p>Die Gründungsversammlung war am xx.xx.2014 in Halle (Saale).
-
-	<h2>Gründungsmitglieder</h2>
-	<p>Liste der Gründungsmitglieder:
-	<ol>
-	<li>Vorname Name</li>
-	<li>Vorname Name</li>
-	<li>Vorname Name</li>
-	<li>Vorname Name</li>
-	<li>Vorname Name</li>
-	<li>Vorname Name</li>
-	<li>Vorname Name</li>
-	</ol>
+	<p>Die Gründungsversammlung war am 19.07.2014 in Halle (Saale).
 
 	<h2>Werbeflyer</h2>
 	<p>Werbeflyer im PDF-Format zum Ausdrucken und Verteilen

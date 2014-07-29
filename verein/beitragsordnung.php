@@ -16,33 +16,35 @@
   <?php require_once("sidebar.php"); ?>
 
   <div class="teaser0">
-	<h2>Beitagsordnung <font size="-1" color="red">Entwurf</font></h2>
+	<h2>Beitragsordnung</h2>
   </div>
 
   <div class="teaser">
 
 	<h2>§ 1 Beitrag </h2>
 		<ol>
-			<li>	Die Mitglieder zahlen einen regelmäßigen Beitrag. </li>
+			<li>	Die Mitglieder zahlen einen monatlichen Min­dest­bei­trag nach § 2 dieser Beitragsordnung. </li>
 			<br>
-			<li>	Der Beitrag soll als Jahresbeitrag gezahlt werden. Dieser ist bis zum 20. Januar jeden Jahres auf das Vereinskont zu überweisen. <i>(Es wird empfohlen dafür einen Dauerauftrag einzurichten.)</i> </li>
+			<li>	Die Beitragspflicht beginnt erst ab auf den Beginn der Mitgliedschaft folgenden Monat.  </li>
 			<br>
-			<li>	Der Beitrag kann auch als Monatsbeitrag gezahlt werden. Dieser ist monatlich bis zum 20. des Monats auf das Vereinskonto zu überweisen.  <i>(Es wird empfohlen dafür einen Dauerauftrag einzurichten.)</i> </li>
+			<li>	Der Monatsbeitrag ist monatlich bis zum 20. des laufenden Monats auf das Vereinskonto zu überweisen.  <i>(Es wird empfohlen dafür einen Dauerauftrag einzurichten.)</i> </li>
 			<br>
-			<li>	Ordentliche Mitglieder geben im Verwendungszweck der Überweisung folgendes an.<br><b>Vornamen, Namen und Jahresbeitrag bzw. Monatsbeitrag</b> </li>
+			<li>	Der Beitrag kann auch als Jahresbeitrag gezahlt werden. Dieser ist bis zum 20. Januar jeden Jahres auf das Vereinskonto zu überweisen. <i>(Es wird empfohlen dafür einen Dauerauftrag einzurichten.)</i> </li>
 			<br>
-			<li>	Fördermitglieder geben im Verwendungszweck der Überweisung folgendes an.<br><b>Firma, Jahresbeitrag bzw. Monatsbeitrag</b> </li>
+			<li>	Ordentliche Mitglieder geben im Verwendungszweck der Überweisung folgendes an.<br><b>Vornamen, Namen und Monatsbeitrag bzw. Jahresbeitrag</b> </li>
 			<br>
-			<li>	Der Vorstand kann mit Fördermitglieder einzelvertraglich auch eine andere dauernde Leistung anstatt des Mitgliedsbeitrages nach Tabell § 2 vereinbaren. </li>
+			<li>	Fördermitglieder geben im Verwendungszweck der Überweisung folgendes an.<br><b>Firma, Monatsbeitrag bzw. Jahresbeitrag</b> </li>
 			<br>
-			<li>	Wer im laufenden Monat das 18. Lebensjahr vollendet, hat ab im darauf folgenden Monat den vollen Beitrag zu entrichten. </li>
+			<li>	Der Vorstand kann mit Fördermitgliedern einzelvertraglich auch eine andere dauernde Leistung anstatt des Mitgliedsbeitrages nach Tabelle (§ 2) vereinbaren. </li>
+			<br>
+			<li>	Wer im laufenden Monat das 18. Lebensjahr vollendet, hat ab dem darauf folgenden Monat den vollen Beitrag zu entrichten. </li>
 			<br>
 			<li>	Der Vorstand kann auf Antrag für sozial benachteiligte ordentliche Mitglieder den ermäßigten Beitrag für jeweils ein Jahr genehmigen. </li> 
 			<br>
 			<li>	Ein gezahlter Beitrag wird nicht zurückerstattet. </li>
 			<br>
-			<li>	Gerät ein Mitglied mit der Zahlung des Beitrags in Rückstand wird ab dem folgenden Monat das Mahnverfahren angestoßen. 
-				Dem Mitglied wird eine Zahlungsfrist gesetzt. Erfolgt auch auf diese Frist kein Zahlungseingang ist der Vorstand ermächtigt, 
+			<li>	Gerät ein Mitglied mit der Zahlung des Beitrags in Rückstand wird dem Mitglied eine Zahlungsfrist gesetzt. 
+				Erfolgt auch auf diese Frist kein Zahlungseingang ist der Vorstand ermächtigt, 
 				ein gerichtliches Mahnverfahren einzuleiten und den Ausschluss des Mitglieds zu beschließen. </li>
 			<br>
 		</ol>
@@ -79,7 +81,7 @@
 
 
 	<h2>§ 3 Inkrafttreten </h2>
-	<p>Die vorstehende Beitragsordnung wurde in der Gründungsversammlung vom xx.xx.2014 beschlossen. Dies tritt im Folgemonat nach der Eintragung ins Vereinsregister in Kraft.</p>			
+	<p>Die vorstehende Beitragsordnung wurde in der Gründungsversammlung vom 19.07.2014 beschlossen. Diese tritt im Folgemonat nach der Eintragung ins Vereinsregister in Kraft.</p>			
 
 
   </div class="teaser">

@@ -74,16 +74,18 @@ $blog_rss = "http://blog.freifunk.net/rss.xml" ;
                 </p>
         </div class="teaser0">
 
-<!-- Anfang Eintrag Sommertreffen -->
+<!-- Anfang Eintrag Sommertreffen 
   	<div class="teaser">
 
 	    	<h2>Freies Freifunktreffen 2014 am Hufeisensee<font size="-2"> (Sommerfest und Gr&uuml;ndungsversammlung Freifunk Halle e.V.)</font></h2></h2>
 		<p> &#8226;  Samstag, den 19.07.2014 ab 15:00 Uhr | 
 		Ort: <a target=_blank href="https://maps.google.de/maps?f=q&ll=51.462082,12.024686&output=embed&z=16&q=tauchclub+orca+halle+ev&hnear=Schkeuditzer+Stra%C3%9Fe+70,+06116+Halle+%28Saale%29&t=h">Schkeuditzer Str. 70</a> | 
-		Details siehe <a href="https://www.freifunk-halle.net/forum/viewtopic.php?f=37&t=1792">Forum</a> </p>
+		Details siehe <a href="https://www.freifunk-halle.net/forum/viewtopic.php?f=37&t=1792">Forum</a>  |
+		Teilnehmer bitte <a href="http://wiki.freifunk.net/Freies_Freifunktreffen_Halle" target=_blank>hier</a> oder im Forum anmelden. 
+		</p>
 
   	</div class="teaser">
-<!-- Ende Eintrag Sommertreffen -->
+ Ende Eintrag Sommertreffen -->
 
         <div class="teaser">
         <h2>N&auml;chste Treffen <font size="-2"> Kommt einfach vorbei. Jeder ist willkommen.</font></h2>

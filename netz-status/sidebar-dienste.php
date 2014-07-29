@@ -2,10 +2,10 @@
 
   <h2>Sonderdienste</h2>
   <p>
-	<b>Internetzugang über Schweden <?php include('gateway.php'); ?></b>
+	<b>Internetzugang über Gateway halle1 <?php include('gateway.php'); ?></b>
   </p>
   <p>
-	<b>Internetzugang über Rumänien <?php include('http://freifunk-kanal13.de/netz-status/gateway.php'); ?></b>
+	<b>Internetzugang über Gateway halle2 <?php include('http://104.62.4.1/netz-status/gateway.php'); ?></b>
   </p>
 
   <h2>Dienste</h2>

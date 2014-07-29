@@ -36,23 +36,23 @@
 		<span style="color:#00cc00">
 		  <?php include('anzahl-nachbarn-halle.php'); ?>
 		</span>
-		; Internetzugang über Schweden: <?php include('gateway.php'); ?>
+		; Internetzugang: <?php include('gateway.php'); ?>
     </h3>
     <?php include('olsr.php'); ?>
 
     <h3>
 		VPN-Server(2): Nachbarn (alle / Halle): 
 		<span style="color:#00cc00">
-		  <?php include('http://freifunk-kanal13.de/netz-status/anzahl-nachbarn.php'); ?>
+		  <?php include('http://freifunk-halle.org/netz-status/anzahl-nachbarn.php'); ?>
 		</span> 
 		/
 		<span style="color:#00cc00">
-		  <?php include('http://freifunk-kanal13.de/netz-status/anzahl-nachbarn-halle.php'); ?>
+		  <?php include('http://freifunk-halle.org/netz-status/anzahl-nachbarn-halle.php'); ?>
 		</span>
-  		; Internetzugang über Rumänien: <?php include('http://freifunk-kanal13.de/netz-status/gateway.php'); ?>
+  		; Internetzugang: <?php include('http://freifunk-halle.org/netz-status/gateway.php'); ?>
     </h3>
 				
-    <?php include('http://freifunk-kanal13.de/netz-status/olsr.php'); ?>
+    <?php include('http://freifunk-halle.org/netz-status/olsr.php'); ?>
 
     <h3>Legende:</h3>
       <ul>   

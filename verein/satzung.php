@@ -16,7 +16,7 @@
   <?php require_once("sidebar.php"); ?>
 
   <div class="teaser0">
-	<h2><font color="red">Entwurf</font></h2>
+	<h2>Satzung</h2>
   </div>
 
   <div class="teaser">

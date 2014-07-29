@@ -16,25 +16,11 @@ function addToIcs($cal, $syear, $smonth, $sday, $stime, $loc, $duration = 3, $re
     $vevent->setProperty("dtend", $end);
     $vevent->setProperty("LOCATION", $loc);
     // property name - case independent
-    $vevent->setProperty("summary", "Freifunktreffen");
-    $desc = "Einladung zum Freifunktreffen am " . $sday . "." . $smonth . "." . $syear . " um " . $stime . " Uhr.\nDetails siehe: https://www.freifunk-halle.net/forum/viewforum.php?f=37";
+    $vevent->setProperty("summary", "@HAL Freifunktreffen");
+    $desc = "Einladung zum halleschen Freifunktreffen am " . $sday . "." . $smonth . "." . $syear . " um " . $stime . ' Uhr.\nDetails siehe: <a href="https://www.freifunk-halle.net/forum/viewforum.php?f=37" >https://www.freifunk-halle.net/forum/viewforum.php?f=37';
     $vevent->setProperty("description", $desc);
 #$vevent->setProperty( "comment", "This is a comment" );
 #$vevent->setProperty( "attendee", "attendee1@icaldomain.net" );
-    if ($remember) {
-        $valarm = & $vevent->newComponent("valarm");
-        // create an event alarm
-        $valarm->setProperty("action", "DISPLAY");
-        $valarm->setProperty("description", $vevent->getProperty("description"));
-
-        // reuse the event description
-        $d = sprintf("%04d%02d%02d %02d%02d%02d", $syear, $smonth, $sday, ($stime - $remembertime - 1), 0, 0);
-        iCalUtilityFunctions::transformDateTime($d, $tz, "UTC", "Ymd\THis\Z");
-        $valarm->setProperty("trigger", $d);
-        // create alarm trigger (in UTC datetime)
-        $vevent = & $cal->newComponent("vevent");
-        // create next event calendar component
-    }
     if ($repeat) {
         $wwday = getdate(mktime(0,0,0, $smonth, $sday, $syear))["wday"];
         $wday = array();
@@ -45,6 +31,18 @@ function addToIcs($cal, $syear, $smonth, $sday, $stime, $loc, $duration = 3, $re
         $wwwday = $wday[$wwday];
         $vevent->setProperty("RRULE", array (FREQ => "MONTHLY", BYDAY=>array($wwwday)));
     }
+    if ($remember) {
+        $valarm = & $vevent->newComponent("valarm");
+        // create an event alarm
+        $valarm->setProperty("action", "DISPLAY");
+        $valarm->setProperty("description", $vevent->getProperty("description"));
+
+        // reuse the event description
+        $d = sprintf("%04d%02d%02d %02d%02d%02d", $syear, $smonth, $sday, ($stime - $remembertime - 1), 0, 0);
+        iCalUtilityFunctions::transformDateTime($d, $tz, "UTC", "Ymd\THis\Z");
+        $valarm->setProperty("trigger", $d);
+    }
+    
 }
 
 function createICS() {
@@ -71,7 +69,7 @@ $orte2 = array();
 $orte2[] = "So.";
 $orte2[] = file_get_contents('ort-montag.txt');
 $orte2[] = "Di.";
-$orte2[] = file_get_contents('ort-mittwoch-kalender.txt');
+$orte2[] = file_get_contents('ort-mittwoch.txt');
 
 # Tage berechnen fuer naechste Termine
 
@@ -98,12 +96,11 @@ for ($i = 2; $i > 0; $i--) {
     $tage = array("Sonntag", "Montag, &#8194;", "Dienstag", "Mittwoch,", "Donnerstag", "Freitag", "Samstag");
     $tag = date('w', time() + $offset);
 
-    addToIcs($cal, $year, $month, $day, 19, htmlentities($orte2[$tag]));
+    addToIcs($cal, $year, $month, $day, 19, ($orte2[$tag]));
 }
 
 // Freies Freifunktreffen
-addToIcs($cal, 2014, 7, 19, 15, htmlentities('<a target=_blank href="https://maps.google.de/maps?f=q&ll=51.462082,12.024686&output=embed&z=16&q=tauchclub+orca+halle+ev&hnear=Schkeuditzer+Stra%C3%9F
-e+70,+06116+Halle+%28Saale%29&t=h">Schkeuditzer Str. 70</a>'), 9, true, 48, false);
+addToIcs($cal, 2014, 7, 19, 15, '<a href="ihttps://maps.google.de/maps?f=q&ll=51.462082,12.024686&output=embed&z=16&q=tauchclub+orca+halle+ev&hnear=Schkeuditzer+Stra%C3%9Fe+70,+06116+Halle+%28Saale%29&t=h" >Schkeuditzer Str. 70</a>', 9, true, 48, false);
 
 $cal->returnCalendar();
 exit;

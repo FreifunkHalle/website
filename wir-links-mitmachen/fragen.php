@@ -78,6 +78,15 @@
 		</p>
 
 <!-- Frage -->
+    		<h3>Kann ich mit Freifunk anonym surfen?</h3>
+
+		<p>
+			Die IP-Adresse des Internetzugangs den du nutzt wird verschleiert. Der Datenverkehr wird über VPN umgeleitet. 
+			Dadurch kann der von dir genutzte Internetzugang nicht ermittelt werden. Ob du aber trotzdem das Netz anonym nutzt, 
+			hängt auch von deinem Nutzerverhalten ab. Wenn du zum Beispiel bei Diensten angemeldet bist, erkennt dich dieser Dienst. 
+		</p>
+
+<!-- Frage -->
     		<h3>Kann Freifunk überwacht werden?</h3>
 
 		<p>

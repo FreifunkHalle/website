@@ -7,7 +7,7 @@
 
   <h2>VPN-Server(1)</h2>
   <p>	
-	Der <b>primäre</b> VPN-Server leitet den Internetdatenverkehr über Schweden.  
+	Der <b>primäre</b> VPN-Server stellt das Hauptgateway ins Internet.  
   </p>
   <p>
 	<b>Nachbarn: <span style="color:#00cc00"><?php include('anzahl-nachbarn.php'); ?></span> 
@@ -19,13 +19,11 @@
   <p>
 	<b>Internetzugang: <?php include('gateway.php'); ?></b>
   </p>
-  <p>
-	<a href="http://www.vpntunnel.com" target="_blank">&gt;&gt; www.vpntunnel.com</a>
-  </p>
+
 
   <h2>VPN-Server(2)</h2>
   <p>	
-	Der <b>sekundäre</b> VPN-Server leitet den Internetdatenverkehr über Rumänien.  
+	Der <b>sekundäre</b> VPN-Server stellt das Backupgateway ins Internet. 
   </p>
   <p>
 	<b>Nachbarn: <span style="color:#00cc00"><?php include('http://freifunk-kanal13.de/netz-status/anzahl-nachbarn.php'); ?></span> 
@@ -37,9 +35,7 @@
   <p>
 	<b>Internetzugang: <?php include('http://freifunk-kanal13.de/netz-status/gateway.php'); ?></b>
   </p>
-  <p>
-	<a href="http://www.vpnbook.com" target="_blank">&gt;&gt; www.vpnbook.com</a>
-  </p>
+
 
   <h2>Serverbrücke</h2>
 	<p>  
@@ -53,7 +49,7 @@
 
   <h2>Störerhaftung</h2>
   <p>	
-	Der Internetdatenverkehr wird ins Ausland umgeleitet, um die Freifunker welche ihren Internetanschluss mit anderen teilen vor der Störerhaftung zu schützen. 
+	Der Internetdatenverkehr wird über die Gatewayserver umgeleitet, um die Freifunker welche ihren Internetanschluss mit anderen teilen vor der Störerhaftung zu schützen. 
   </p>
 
 </div>

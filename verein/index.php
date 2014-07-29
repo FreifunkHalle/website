@@ -16,15 +16,20 @@
   <?php require_once("sidebar.php"); ?>
 
   <div class="teaser0">
-	<h2>Freifunk Halle e.V. <font size="-1" color="red"> (in Gründung aktuell sind wir noch kein e.V.!)</font></h2> 
+	<h2>F&ouml;rderverein Freifunk Halle <font size="-1" color="red"> in Gründung</font></h2> 
   </div>
 
 
 
   <div class="teaser">
 	
-	<h2>Wir sind der Verein zur Förderung des Projektes Freifunk in Halle und dem Umland</h2>
+	<h2>Wir sind der F&ouml;rderverein des Projektes Freifunk in Halle und dem Umland</h2>
 
+	<p>
+
+<img src="2014-07-19-Foerderverein-klein.jpg" alt="Gründungsmitglieder" title="Gründungsmitglieder" align="" border="1" hspace="10" vspace="10" width="100%" height="">
+
+	<p>
 
 <!-- Start Einleitung -->
 
@@ -45,12 +50,12 @@
 		Weiterhin ist den Betreibern wichtig, dass Anonymität gewährleistet ist und dass keine Überwachung stattfinden kann. 
 	</b>	[Quelle: <a href="http://de.wikipedia.org/wiki/Freifunk" target=_blank>Wikipedia</a>, Stand 26.02.2014] 
 
-	<p>	Du wills bei <b>Freifunk Halle</b> mitmachen, dafür musst du nicht Mitglied im Verein <b>Freifunk Halle e.V.</b> sein. 
+	<p>	Du wills bei <b>Freifunk Halle</b> mitmachen, dafür musst du nicht Mitglied im <b>Förderverein Freifunk Halle e.V.</b> sein. 
 		Bei dem Projekt <b>Freifunk Halle</b> kann jeder mitmachen. Der Verein unterstützt das Projekt Freifunk in Halle und dem Umland. 
 		Freifunk Halle und der Verein sind unabhängig von einander. 
 
-	<p>	Wenn du einen regelmäßigen Beitrag zur Förderung des Projektes <b>Freifunk in Halle</b> leisten möchtest, 
-		werde Mitglied im Verein <b>Freifunk Halle e.V.</b> oder unterstütze die Arbeit des Verein durch Spenden.
+	<p>	Wenn du einen regelmäßigen Beitrag zur Förderung des Projektes <b>Freifunk in Halle</b> leisten möchtest, <br>
+		werde Mitglied im  <b>Förderverein Freifunk Halle e.V.</b> oder unterstütze die Arbeit des Verein durch Spenden.
 
 
 <!-- Ende Einleitung -->
