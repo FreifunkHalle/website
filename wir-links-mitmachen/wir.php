@@ -31,6 +31,16 @@
       </center>
 	<p>
 
+<h2>Freifunk Halle beim Cryptoswap 2014</h2>
+    <p>
+      <center>
+        <video src="../media/Cryptoswap_Freifunk_in_Halle_und_Magdeburg.webm" type="video/webm" width="100%" height="" title="Vortrag über Freifunk auf der Cryptoswap 2014" autobuffer controls>
+        <div>Schade <96> hier käme ein Video, wenn Ihr
+             Browser HTML5 Unterstützung hätte, wie z.B. der
+             aktuelle Firefox</div>
+        </video>
+      </center>
+        <p>
 <!-- Start Netzknoten Beispiele -->
 
 	<h2>Beispiele für Netzknoten</h2>

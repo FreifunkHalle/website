@@ -49,6 +49,10 @@ $blog_rss = "http://blog.freifunk.net/rss.xml" ;
     	<p>Auf der Karte kannst du dir das derzeitige Freifunk-Netz ansehen und herausfinden, ob es in deiner Nachbarschaft bereits andere Freifunkknoten gibt.</p>
     	<p><a href="/Map">&gt;&gt; zur Karte</a></p>
 
+    	<h2>F&ouml;rderverein</h2>
+    	<p>Der F&ouml;derverein Freifunk Halle wurde am 19.07.2014 gegr&uuml;ndet.</p>
+    	<p><a href="verein/">&gt;&gt; zum F&ouml;rderverein</a></p>
+
 	<h2>Besucherz&aumlhler</h2>
 	<p><b>Summe</b> / letzten 24 Stunden
 	<p>Hauptserver : <b><?php include("counter.php"); require_once("counter.txt"); ?></b> / <?php include("counter-aktuell.php");?>

@@ -87,6 +87,9 @@
 	<li>
           <a target="_blank" href="http://wetter.webcam-hufeisensee.de" title="Wettermessdaten am Hufeisensee">Wetterstation</a>
         </li>
+	<li>
+          <a target="_blank" href="https://freifunk-halle.org:8443/" title="freie unzensierte Suche">Freie Suche</a>
+        </li>
       </ul>
     </li>
 

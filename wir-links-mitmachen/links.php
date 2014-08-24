@@ -24,7 +24,9 @@
 		    <li><a href="https://github.com/FreifunkHalle" target="_blank" title="Software des Halle'schen Freifunk auf Github">https://github.com/FreifunkHalle</a></li>
 		    <li><a href="http://webcam-hufeisensee.de" target="_blank" title="Webcam am Hufeisensee">Webcam am Hufeisensee</a></li>
 		    <li><a href="http://wetter.webcam-hufeisensee.de" target="_blank" title="Wettermessdaten vom Hufeisensee">Wetterstation am Hufeisensee</a></li>
+		    <li><a href="https://freifunk-halle.org:8443/" target="_blank" title="freie unzensierte Suche">freie unzensierte Suche</a></li>
 		</ol>
+
 		<h3>Andere Freifunk Projekte </h3>
 		<ol>
 		    <li><a href="http://freifunk.net" target="_blank" title="Freifunk">freifunk.net</a> das Berliner Freifunk Netz</li>
@@ -43,6 +45,7 @@
 		    <li><a href="http://www.ddmesh.de/topology/ic-vpn-verbindungen.html" target="_blank" title="aktueller Status des IC-VPN">Freifunk IC-VPN Grafik (Dresden)</a></li>
 		    <li><a href="http://vpn.berlin.freifunk.net/tinc_icvpn.png" target="_blank" title="aktueller Status des IC-VPN">Freifunk IC-VPN Grafik (Berlin)</a></li>
 		</ol>
+
 		<h3>Links zu Funkfeuer in Österreich</h3>
 		<ol>
 		    <li><a href="http://graz.funkfeuer.at" target="_blank" title="">Funkfeuer Graz</a></li>
@@ -50,10 +53,12 @@
 		    <li><a href="http://funkfeuer.at" target="_blank" title="">Funkfeuer Wien</a></li>
 		    <li><a href="http://weststmk.funkfeuer.at" target="_blank" title="">Funkfeuer Weststeiermark</a></li>
 		</ol>
+
 		<h3>Firmware für den Router</h3>
 		<ol>
 		    <li><a href="http://meshkit.freifunk.net" target="_blank" title="Bitte die Beschreibung im Wiki beachten!">Meshkit</a></li>
 		</ol>
+
 		<h3>Sonstiges</h3>
 		<ol>
 		    <li><a href="http://blog.freifunk.net" target="_blank" title="Freifunk Blog">Freifunk Blog</a></li>

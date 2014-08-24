@@ -19,7 +19,7 @@
 
 	<h2>Geschäftsstelle</h2>
 	<p>Klaus Müller 
-	<br><font size="-2">Verein Freifunk Halle </font>
+	<br><font size="-2">Förderverein Freifunk Halle e.V.</font>
 	<br>Diesterwegstr. 35 
 	<br>06128 Halle (Saale)
 
