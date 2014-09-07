@@ -12,6 +12,11 @@
   $links = $data["links"];
   $mid = $data["mid"];
   $neighbors = $data["neighbors"];
+  for ( $i = 0; $i<count($neighbors); $i++) {
+    $neighbors[$neighbors[$i]["ipv4Address"]] = $neighbors[$i];
+    unset($neighbors[$i]);
+  }
+  uksort($neighbors, ipSortFunc);
 ?>
   <table  bgcolor="#E6E6E6">
     <tr bgcolor="#BDBDBD">

@@ -17,7 +17,7 @@ function addToIcs($cal, $syear, $smonth, $sday, $stime, $loc, $duration = 3, $re
     $vevent->setProperty("LOCATION", $loc);
     // property name - case independent
     $vevent->setProperty("summary", "@HAL Freifunktreffen");
-    $desc = "Einladung zum halleschen Freifunktreffen am " . $sday . "." . $smonth . "." . $syear . " um " . $stime . ' Uhr.\nDetails siehe: <a href="https://www.freifunk-halle.net/forum/viewforum.php?f=37" >https://www.freifunk-halle.net/forum/viewforum.php?f=37';
+    $desc = 'Einladung zum halleschen Freifunktreffen.\nDetails siehe: <a href="https://www.freifunk-halle.net/forum/viewforum.php?f=37" >https://www.freifunk-halle.net/forum/viewforum.php?f=37';
     $vevent->setProperty("description", $desc);
 #$vevent->setProperty( "comment", "This is a comment" );
 #$vevent->setProperty( "attendee", "attendee1@icaldomain.net" );

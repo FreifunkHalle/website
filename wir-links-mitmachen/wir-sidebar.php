@@ -67,4 +67,8 @@
   <p>Beispiel Dachboden
   </p>
 
+	<h2>Lizenz Kurzfilm</h2>
+	<p> Freies Netz zum Selber- und Mitmachen. <a target="_plank" href="https://creativecommons.org/licenses/by-nc-sa/3.0/de/" title="Lizenz: CC-BY-NC-SA">CC-BY-NC-SA</a>
+	</p>
+
 </div id="sidebar">

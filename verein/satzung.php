@@ -16,7 +16,7 @@
   <?php require_once("sidebar.php"); ?>
 
   <div class="teaser0">
-	<h2>Satzung</h2>
+	<h2>Satzung <font size="-2">hier auch als <a href="satzung.pdf" target="_blank">PDF-Datei</a> zum Runterladen</font></h2>
   </div>
 
   <div class="teaser">

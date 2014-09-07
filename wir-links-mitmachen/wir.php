@@ -34,13 +34,25 @@
 <h2>Freifunk Halle beim Cryptoswap 2014</h2>
     <p>
       <center>
-        <video src="../media/Cryptoswap_Freifunk_in_Halle_und_Magdeburg.webm" type="video/webm" width="100%" height="" title="Vortrag über Freifunk auf der Cryptoswap 2014" autobuffer controls>
+        <video src="../media/Cryptoswap_Freifunk_in_Halle_und_Magdeburg.webm" type="video/webm" width="100%" height="" title="Vortrag über Freifunk auf der Cryptoswap 2014" poster="../media/bilder/3dfx-vortrag.jpg" autobuffer controls>
         <div>Schade <96> hier käme ein Video, wenn Ihr
              Browser HTML5 Unterstützung hätte, wie z.B. der
              aktuelle Firefox</div>
         </video>
       </center>
         <p>
+
+<h2>Freies Netz zum Selber- und Mitmachen. Ein Besuch bei den Freifunkern in Berlin.</h2>
+    <p>
+      <center>
+        <video src="../media/freies-netz.webm" type="video/webm" width="100%" height="" title="Freies Netz zum Selber- und Mitmachen" poster="../media/freies-netz.jpg" autobuffer controls>
+	 <div>Schade <96> hier käme ein Video, wenn Ihr
+             Browser HTML5 Unterstützung hätte, wie z.B. der
+             aktuelle Firefox</div>
+        </video>
+      </center>
+        <p>
+
 <!-- Start Netzknoten Beispiele -->
 
 	<h2>Beispiele für Netzknoten</h2>

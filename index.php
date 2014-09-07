@@ -73,7 +73,7 @@ $blog_rss = "http://blog.freifunk.net/rss.xml" ;
                 <p><img src="media/freifunk-logo.png" style="float: left; margin: 0 30px 20px 0;" alt="" >
                 <p>
                 Dies ist das <b>Internetportal des Freifunks in Halle und dem Umland</b>, sowie ein Ausgangspunkt f&uuml;r soziale, technische und
-                allgemeine Informationen rund um das Thema Freifunk und die Freifunk-Community in Halle. 
+                allgemeine Informationen rund um das Thema Freifunk und die Freifunk-Community in Halle.
 		  <p><a href="http://freifunk-halle.org" target="_top"><font size="-1">Link zum Backupserver</font></a>
                 </p>
         </div class="teaser0">
@@ -93,7 +93,9 @@ $blog_rss = "http://blog.freifunk.net/rss.xml" ;
 
         <div class="teaser">
         <h2>N&auml;chste Treffen <font size="-2"> Kommt einfach vorbei. Jeder ist willkommen.</font></h2>
-        <ul>
+        <ul><li>
+		Wir treffen uns jeden ersten Mittwoch und dritten Montag im Monat. Eine Übersicht über alle Termine steht auch als Kalendar-Datei im iCalender-Format bereit. <a href="shared_calendar.php"><img src="media/calendar2.png" alt="Kalenderdatei" width="24" height="24" ></a>
+	    </li><br>
 		<?php require_once("treffen-termin-fuer-index.php"); ?>
         </ul>
         </div class="teaser">
