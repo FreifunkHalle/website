@@ -40,11 +40,40 @@
         <p>Die Listendaten werden einmal pro Stunde aktuallisiert.</p>
 	 <p>In der Liste erscheinen nur die Netzknoten, auf denen Botinfo installiert ist.
 
+<!--
 	<h2>Netzknoten</h2>
 	<p>bekannt: <b><?php echo count($topo); ?></b></p>
 	<p>online: <b><font color='#00C000'><?php echo $online; ?></font></b></p>
-	<p>Tunnel: <b><font color='#2ECCFA'><?php echo $tun; ?></font></b></p>
+	<p>VPN-Tunnel: <b><font color='#2ECCFA'><?php echo $tun; ?></font></b></p>
+	<p>ohne Tunnel: <b><font color='#FFCB05'><?php echo $online-$tun; ?></font></b></p>
 	<p>offline: <b><font color='#FF0000'><?php echo count($topo)-$online; ?></font></b></p>
+-->
+
+	<h2>Netzknoten</h2>
+	<p>
+		<table border="0" cellpadding="1" cellspacing="1" width="100%"  bgcolor="#E6E6E6">
+		<tr bgcolor="#BDBDBD">
+			<td>bekannt: </td>
+			<td bgcolor='#B2C8D4' align='right'><b><?php echo count($topo); ?></b></td>
+		</tr>
+		<tr bgcolor="">
+			<td>online: </td>
+			<td bgcolor='#00C000' align='right'><b><font color=''><?php echo $online; ?></font></b></td>
+		</tr>
+		<tr bgcolor="#BDBDBD">
+			<td>VPN-Tunnel: </td>
+			<td bgcolor='#2ECCFA' align='right'><b><font color=''><?php echo $tun; ?></font></b></td>
+		</tr>
+		<tr bgcolor="">
+			<td>ohne Tunnel: </td>
+			<td bgcolor='#FFCB05' align='right'><b><font color=''><?php echo $online-$tun; ?></font></b></td>
+		</tr>
+		<tr bgcolor="#BDBDBD">
+			<td>offline: </td>
+			<td bgcolor='#FF0000' align='right'><b><font color='#FFFFFF'><?php echo count($topo)-$online; ?></font></b></td>
+		</tr>
+		</table>
+	</p>
 
         <h2>Tunnellink</h2>
         <p><b><font color='#2ECCFA'>Ja</font></b> bedeutet das dieser Netzknoten &uuml;ber VPN mit den Freifunkservern verbnunden ist.</p>

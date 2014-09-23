@@ -16,7 +16,7 @@
   <?php require_once("sidebar.php"); ?>
 
   <div class="teaser0">
-	<h2>F&ouml;rderverein Freifunk Halle <font size="-1" color="red"> in Gründung</font></h2> 
+	<h2>F&ouml;rderverein Freifunk Halle</h2> 
   </div>
 
 

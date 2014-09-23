@@ -18,14 +18,13 @@
 	</ul>
 
 	<h2>Geschäftsstelle</h2>
-	<p>Klaus Müller 
-	<br><font size="-2">Förderverein Freifunk Halle e.V.</font>
+	<p>Förderverein Freifunk Halle e.V.
+	<br><font size="-2">Klaus Müller</font>
 	<br>Diesterwegstr. 35 
 	<br>06128 Halle (Saale)
 
 	<h2>Vereinsregister</h2>
-	<p>Der gemeinnützige Verein ist im Vereinsregister des Amtsgerichts Stendal unter der 
-	<br>Nummer XXXXXX registriert.
+	<p>Der gemeinnützige Verein ist im Vereinsregister des Amtsgerichts Stendal unter VR <b>3968</b> seit dem 22.09.2014 eingetragen.
 
 	<h2>Spenden</h2>
 	<p>Spenden auf das Vereinskonto sind immer willkommen.
@@ -33,6 +32,7 @@
 
 	<h2>Vereinsgründung</h2>
 	<p>Die Gründungsversammlung war am 19.07.2014 in Halle (Saale).
+	<p>
 
 	<h2>Werbeflyer</h2>
 	<p>Werbeflyer im PDF-Format zum Ausdrucken und Verteilen

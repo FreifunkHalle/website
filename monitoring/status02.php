@@ -11,7 +11,7 @@
 <body bgcolor="#000000" style="color: #FFFFFF">
 
 <center>
-<table border="1" width="100%" height="100%" cellspacing="5" cellpadding="5">
+<table border="1" width="100%" height="100%" cellspacing="0" cellpadding="10">
   <tr>
     <td width="*" nowrap valign="top"><pre>Statusabfrage</pre></td>
     <td width="*" nowrap valign="top"><pre><?php require_once("ausgabe-01.php"); ?></pre></td>

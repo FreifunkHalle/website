@@ -125,6 +125,27 @@ a {
   color: #666 ;
 }
 
+#sidebar table {
+  width: 100% ;
+  font-size: 0.8em ;
+  color: #666 ;
+  margin-bottom: 2em ;
+  list-style-type: none ;
+  padding: 3px ;
+}
+#sidebar table tr td{
+  padding:3px;
+  padding-left:7px;
+  padding-right:7px;
+  margin:1px;
+}
+#sidebar table tr:hover {
+  background-color:#B2C8D4;
+}
+#sidebar rowstyle-1{
+  background-color: #F1F6FA;
+}
+
 .teaser0, .teaser {
   margin-left: 20px ;
   margin-right: 300px ;
