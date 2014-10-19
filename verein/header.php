@@ -3,7 +3,7 @@
   <ul id="menu">
 <!-- Knopf 1 -->
 
-    <li style="margin-left:0;">
+    <li class="firstlink">
       <a href="/verein">F&ouml;rderverein</a>
     </li>
     <li>

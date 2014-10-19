@@ -6,7 +6,7 @@
 <HTML>
 <HEAD>
   <TITLE>Freifunk Halle - Netzknotenliste</TITLE>
-  <meta http-equiv="refresh" content="900; URL=/netz-status/nodelist.php">
+  <meta http-equiv="refresh" content="3600; URL=/netz-status/nodelist.php">
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <?php include("../header-html.php"); ?>
 </HEAD>
@@ -39,15 +39,6 @@
         <h2>Bitte beachten!</h2>
         <p>Die Listendaten werden einmal pro Stunde aktuallisiert.</p>
 	 <p>In der Liste erscheinen nur die Netzknoten, auf denen Botinfo installiert ist.
-
-<!--
-	<h2>Netzknoten</h2>
-	<p>bekannt: <b><?php echo count($topo); ?></b></p>
-	<p>online: <b><font color='#00C000'><?php echo $online; ?></font></b></p>
-	<p>VPN-Tunnel: <b><font color='#2ECCFA'><?php echo $tun; ?></font></b></p>
-	<p>ohne Tunnel: <b><font color='#FFCB05'><?php echo $online-$tun; ?></font></b></p>
-	<p>offline: <b><font color='#FF0000'><?php echo count($topo)-$online; ?></font></b></p>
--->
 
 	<h2>Netzknoten</h2>
 	<p>
@@ -86,7 +77,7 @@
 </div>
 
 <div class="teaser">
-<h2> Knotenliste <font size="-2"> Seite wird alle 15 Minuten aktualisert</font></h2>
+<h2> Knotenliste <font size="-2"> Seite wird alle 60 Minuten aktualisert</font></h2>
   <table border="0" cellpadding="1" cellspacing="1" width="100%"  bgcolor="#E6E6E6">
     <tr bgcolor="#BDBDBD">
       <th> IP-Adresse </th>

@@ -9,7 +9,6 @@ $blog_rss = "http://blog.freifunk.net/rss.xml" ;
 <html>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta http-equiv="refresh" content="600; URL=../">
   <title>Freifunk Halle :: Startseite</title>
   <?php require_once("header-html.php"); ?>
 </head>
