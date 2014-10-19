@@ -236,6 +236,10 @@ a {
   color: #999 ;
 }
 
+.teaser ol ol {
+  font-size: 1em;
+}
+
 #footer {
   border-left: 1px solid #ccc ;
   border-right: 1px solid #333333 ;

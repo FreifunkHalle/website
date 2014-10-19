@@ -9,7 +9,7 @@
 </HEAD>
 <BODY>
 
-<?php require_once("header-verein.php"); ?>
+<?php require_once("header.php"); ?>
 
 <div id="content">
 
