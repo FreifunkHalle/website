@@ -134,13 +134,7 @@ a {
   padding: 3px ;
 }
 #sidebar table tr td{
-  padding:3px;
-  padding-left:7px;
-  padding-right:7px;
   margin:1px;
-}
-#sidebar table tr:hover {
-  background-color:#B2C8D4;
 }
 #sidebar rowstyle-1{
   background-color: #F1F6FA;

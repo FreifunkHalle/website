@@ -26,7 +26,7 @@ function lade()
                 }
                 function hoehe()
                 {
-                        return  document.documentElement.clientHeight-139;
+                        return  document.documentElement.clientHeight-137;
 
                 }
                 function wechsel()

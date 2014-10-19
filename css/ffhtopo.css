@@ -61,6 +61,7 @@
 		margin-left: 5px;
 		margin-bottom: 5px;
 		border: 1px solid #cccccc;	
+		border-radius: 6px;
 	}
 	
 	.mtBlock {
@@ -94,7 +95,9 @@
 	#map {
 		margin-right:230px;
 		margin-left:2px;
+		margin-bottom: 2px;
 		border: 1px solid #cccccc;
+		border-radius: 6px;
                 overflow: hidden;
 	}
 	
