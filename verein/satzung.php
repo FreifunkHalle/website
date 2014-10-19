@@ -13,7 +13,7 @@
 
 <div id="content">
 
-  <?php require_once("sidebar.php"); ?>
+  <?php require_once("../impressum-sidebar.php"); ?>
 
   <div class="teaser0">
 	<h2>Satzung <font size="-2">hier auch als <a href="satzung.pdf" target="_blank">PDF-Datei</a> zum Runterladen</font></h2>

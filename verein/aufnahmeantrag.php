@@ -13,7 +13,7 @@
 
 <div id="content">
 
-  <?php require_once("sidebar.php"); ?>
+  <?php require_once("../impressum-sidebar.php"); ?>
 
   <div class="teaser0">
 

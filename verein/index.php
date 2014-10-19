@@ -13,10 +13,10 @@
 
 <div id="content">
 
-  <?php require_once("sidebar.php"); ?>
+  <?php require_once("../impressum-sidebar.php"); ?>
 
   <div class="teaser0">
-	<h2>F&ouml;rderverein Freifunk Halle</h2> 
+	<h2>F&ouml;rderverein Freifunk Halle e.V.</h2> 
   </div>
 
 
