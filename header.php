@@ -48,13 +48,13 @@
       <a class="menulink"  target="_top" href="/Map" title="Auf der Karte sind die aktiven Netzknoten dargestellt.">Netzkarte</a>
       <ul class="dropdown-menulink">
         <li>
+          <a target="_top" href="/netz-status/nodelist.php" title="Knotenliste.">Netzknotenliste</a>
+        </li>
+        <li>
           <a target="_top" href="/topologie.php" title="Verbindung der Netzknoten zueinander.">Topologie</a>
         </li>
 	<li>
 	   <a target="_top" href="/netz-status/index.php" title="Status des Internetzugangs und OLSR">OLSR Nachbarn</a>
-        </li>
-        <li>
-          <a target="_top" href="/netz-status/nodelist.php" title="Knotenliste.">Netzknotenliste</a>
         </li>
 	<li>
           <a target="_top" href="/netz-status/viz-index.php" title="Visualisierung des Freifunk-Mesh-Netzes.">OLSR-VIZ</a>
