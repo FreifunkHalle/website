@@ -47,7 +47,18 @@
 	<p>
 	Komm zum Freifunk-Treffen oder schreib im Forum. Du kannst uns auch mit Spenden unterstützen. 
 	</p>
+	<h2>Unterstützte WLan-Router und Freifunkfirmware erstellen</h2>
 
+	<p>
+	 Wir empfehlen aktuell folgende Routermodelle für Freifunk. Die passende Freifunkfirmware kannst du mit dem <a target="_top" href="http://meshkit.freifunk-halle.org" title="hier kannst du dir eine Firmware erstellen"><b>Meshkit</b></a> erstellen. 
+	</p>
+			<ul style="list-style-type:disc">
+   				<li>TP-Link TL-WDR4300nd</li>
+    				<li>TP-Link TL-WDR3600nd</li>
+    				<li>TP-Link TL-WR842nd</li>
+			</ul>
+	<p>		<b>nd</b> bedeutet, das die Antennen am Router angeschraubt sind und somit auch gegen andere Antennen getauscht werden können. 
+	</p>
 	<h2>Du möchtest einen Freifunk-Router aufstellen?</h2>
 
 <!-- level 1-->
@@ -96,29 +107,14 @@
 	</h3>
     		<p><img src="../media/bilder/lisa-recht.jpg" style="float: right; margin: 0  align="top" hspace="20" vspace="15" width="160" height=""</p>
 	<p>
-	Damit Du dir keine Sorgen wegen der Störerhaftung machen musst, leiten wir den Internetdatenverkehr über unsere Server ins Ausland um. 
+	Damit Du dir keine Sorgen wegen der Störerhaftung machen musst, leiten wir den Internetdatenverkehr über unsere Server um. 
 	Deine IP-Adresse wird dadurch verschleiert. 
 	</p>
 	<p>
 	VPN-Tunnel verbinden Freifunk-Router über das Internet mit den Freifunk-Servern. 
-	Von dort wird der Datenverkehr, welcher ins Internet soll, über weitere VPN-Tunnel zu den Gateways ins Ausland umgeleitet. 
 	</p>
 	<p>
 	Damit der Datenverkehr ins und über das Internet sicher ist, verschlüsseln wir die Daten bei der Übertragung in VPN-Tunneln. 
-	</p>
-
-	<h2>Unterstützte WLan-Router (Hartware)</h2>
-
-	<p>
-	 Wir empfehlen aktuell folgende Routermodelle für Freifunk. Die passende Freifunkfirmware kannst du mit dem Meshkit erstellen. Eine Anleitung dazu findest du im Wiki.
-	</p>
-			<ul style="list-style-type:disc">
-   				<li>TP-Link TL-WDR4300nd</li>
-    				<li>TP-Link TL-WDR3600nd</li>
-    				<li>TP-Link TL-WR1043nd</li>
-    				<li>TP-Link TL-WR842nd</li>
-			</ul>
-	<p>		<b>nd</b> bedeutet, das die Antennen am Router angeschraubt sind und somit auch gegen andere Antennen getauscht werden können. 
 	</p>
 	
     	<h2>N&auml;chste Treffen</h2>	
