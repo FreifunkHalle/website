@@ -23,7 +23,6 @@ a.menulink:after, .dropdown-toggle:after {
   content: "&darr";
   display: inline-block;
   height: 0;
-  margin-left: 4px;
   margin-top: 8px;
   opacity: 0.5;
   text-indent: -99999px;
