@@ -38,7 +38,7 @@
 	<h3>Vorstand</h3>
 
 	<ul>
-	<li><b>Vorsitzender: </b>Klaus Müller | Diesterwegstr. 35 | 06128 Halle (Saale) | Telefon: 0345-9760085 (privat) 
+	<li><b>Vorsitzender: </b>Klaus Müller | Diesterwegstr. 35 | 06128 Halle (Saale)  
 	</li>
 	<li><b>Stellvertreter: </b>Matthias Fuhrmeister | August-Bebel-Str. 69 | 06108 Halle (Saale) 
 	</li>
@@ -47,6 +47,9 @@
 	</ul>
 
     <h3>Kontakt </h3>
+
+    <p><b>Telefon: 0345 - 51 69 84 76 </b> (Anrufbeantworter der Geschäftsstelle)
+    <br>Ihre Sprachnachricht und Rufnummer wird an die Mitglieder des Vorstandes gesendet. 
 
     <p><b>Für Kontakt zur Gemeinschaft der Freifunker nutzen Sie bitte das</b> <a target="_top" href="https://freifunk-halle.net/forum" title="Das Forum dient zum Austausch der Freifunker in Halle. Hier kann man Kontakt zu anderen Freifunkern aufnehmen und Fragen stellen.">Forum</a><b>.</b> </p>
 
