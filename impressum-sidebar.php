@@ -30,6 +30,9 @@
 	<li>Eintagung am 22.09.2014</li>
 	</ul>
 
+	<h2>Bundesnetzagentur</h2>
+	<p>Registernummer: <b>14/234</b>
+
 	<h2>Steuernummer</h2>
 	<p>noch nicht vorhanden
 

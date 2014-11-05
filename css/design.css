@@ -40,9 +40,7 @@ a {
   list-style-type: none ;
   display:flex;
 }
-#header > #menu > .dropdown {
-  line-height: 1em;
-}
+
 #header > #menu > #header-float-right-fill {
   line-height: normal;
 }
@@ -79,19 +77,19 @@ a {
 }
 
 #header-float-right-fill {
-  overflow:hidden;
   flex:auto; 
   height:4.1em;
   background: #ffcb05 url("/media/menu2.gif") repeat-x ;
+  z-index: 10;
 }
 
 #content {
   width: 100% ;
-  background-color: #fff ;
-  border-left: 1px solid #ccc ;
-  border-right: 1px solid #333 ;
-  clear: both ;
-  float: left ;
+  background-color: #fff;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #333;
+  clear: both;
+  float: left;
 }
 
 #sidebar {
