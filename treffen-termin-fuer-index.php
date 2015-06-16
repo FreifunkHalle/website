@@ -65,24 +65,12 @@
 		$zeit2[] = "Fr.";
 		$zeit2[] = "Sa.";
 
-# Start neu
 	echo "<li>
 		&#8226; $tage[$tag] den " . date('d.m.Y', time() + $offset) . " um $zeit[$tag] Uhr | Ort: $orte[$tag] | siehe 
-			<a href=\"https://www.freifunk-halle.net/forum/viewforum.php?f=37\">Veranstaltungen</a> 
+			<a href=\"https://www.freifunk-halle.org/forum/viewforum.php?f=37\">Veranstaltungen</a> 
 			<a href=\"ics.php?year=".$year."&amp;month=".$month."&amp;day=".$day."&amp;loc=". htmlentities($orte2[$tag])."\">
 				<img src=\"media/calendar2.png\" alt=\"Kalenderdatei\" width=24 height=24 ></a>
 		</li><br>\n" ; 
-# Ende neu
-
-# Start alt	
-#	echo "<li>
-#		$tage[$tag], den " . date('d.m.Y', time() + $offset) . " um 19:00 Uhr, siehe 
-#			<a href=\"https://www.freifunk-halle.net/forum/viewforum.php?f=37\">Veranstaltungen</a> 
-#			<a href=\"ics.php?year=".$year."&amp;month=".$month."&amp;day=".$day."\">
-#				<img src=\"media/calendar2.png\" alt=\"Kalenderdatei\" width=24 height=24 ></a>
-#		</li><br>\n" ;
-# Ende alt
-
         }
 
         ?>

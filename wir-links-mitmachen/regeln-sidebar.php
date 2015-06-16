@@ -4,13 +4,13 @@
     	<p>	
 		Freifunk ist ein freies, offenes, nicht-kommerzielles und unzensiertes 
 		Funknetzwerk auf WLAN-Technologie. Jeder Nutzer im Freifunknetz stellt seinen 
-		Wlan-Router für den Datenverkehr aller Nutzer zur Verfügung. 
+		Wlan-Router fÃ¼r den Datenverkehr aller Nutzer zur VerfÃ¼gung. 
 	</p>
 
     	<h2>Mitmachen</h2>
     	<p>	
 		Jeder kann mitmachen, auch Du. Verbreite unsere Vision eines freien und 
-		unabhängigen Netzes. Sprich mit Deinen Freunden, Bekannten und Nachbarn. 
+		unabhÃ¤ngigen Netzes. Sprich mit Deinen Freunden, Bekannten und Nachbarn. 
 	</p>
 
     	<h2>Internet teilen</h2>

@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-  <TITLE>Förderverein - Beitragsordnung</TITLE>
+  <TITLE>FÃ¶rderverein - Beitragsordnung</TITLE>
   <meta http-equiv="content-type" content="text/html; charset=ISO-8859-15">
   <?php require_once("../header-html.php"); ?>
 </HEAD>
@@ -21,35 +21,35 @@
 
   <div class="teaser">
 
-	<h2>§ 1 Beitrag </h2>
+	<h2>Â§ 1 Beitrag </h2>
 		<ol>
-			<li>	Die Mitglieder zahlen einen monatlichen Min­dest­bei­trag nach § 2 dieser Beitragsordnung. </li>
+			<li>	Die Mitglieder zahlen einen monatlichen MinÂ­destÂ­beiÂ­trag nach Â§ 2 dieser Beitragsordnung. </li>
 			<br>
 			<li>	Die Beitragspflicht beginnt erst ab auf den Beginn der Mitgliedschaft folgenden Monat.  </li>
 			<br>
-			<li>	Der Monatsbeitrag ist monatlich bis zum 20. des laufenden Monats auf das Vereinskonto zu überweisen.  <i>(Es wird empfohlen dafür einen Dauerauftrag einzurichten.)</i> </li>
+			<li>	Der Monatsbeitrag ist monatlich bis zum 20. des laufenden Monats auf das Vereinskonto zu ÃŒberweisen.  <i>(Es wird empfohlen dafÃŒr einen Dauerauftrag einzurichten.)</i> </li>
 			<br>
-			<li>	Der Beitrag kann auch als Jahresbeitrag gezahlt werden. Dieser ist bis zum 20. Januar jeden Jahres auf das Vereinskonto zu überweisen. <i>(Es wird empfohlen dafür einen Dauerauftrag einzurichten.)</i> </li>
+			<li>	Der Beitrag kann auch als Jahresbeitrag gezahlt werden. Dieser ist bis zum 20. Januar jeden Jahres auf das Vereinskonto zu ÃŒberweisen. <i>(Es wird empfohlen dafÃŒr einen Dauerauftrag einzurichten.)</i> </li>
 			<br>
-			<li>	Ordentliche Mitglieder geben im Verwendungszweck der Überweisung folgendes an.<br><b>Vornamen, Namen und Monatsbeitrag bzw. Jahresbeitrag</b> </li>
+			<li>	Ordentliche Mitglieder geben im Verwendungszweck der Ãberweisung folgendes an.<br><b>Vornamen, Namen und Monatsbeitrag bzw. Jahresbeitrag</b> </li>
 			<br>
-			<li>	Fördermitglieder geben im Verwendungszweck der Überweisung folgendes an.<br><b>Firma, Monatsbeitrag bzw. Jahresbeitrag</b> </li>
+			<li>	FÃ¶rdermitglieder geben im Verwendungszweck der Ãberweisung folgendes an.<br><b>Firma, Monatsbeitrag bzw. Jahresbeitrag</b> </li>
 			<br>
-			<li>	Der Vorstand kann mit Fördermitgliedern einzelvertraglich auch eine andere dauernde Leistung anstatt des Mitgliedsbeitrages nach Tabelle (§ 2) vereinbaren. </li>
+			<li>	Der Vorstand kann mit FÃ¶rdermitgliedern einzelvertraglich auch eine andere dauernde Leistung anstatt des Mitgliedsbeitrages nach Tabelle (Â§ 2) vereinbaren. </li>
 			<br>
 			<li>	Wer im laufenden Monat das 18. Lebensjahr vollendet, hat ab dem darauf folgenden Monat den vollen Beitrag zu entrichten. </li>
 			<br>
-			<li>	Der Vorstand kann auf Antrag für sozial benachteiligte ordentliche Mitglieder den ermäßigten Beitrag für jeweils ein Jahr genehmigen. </li> 
+			<li>	Der Vorstand kann auf Antrag fÃŒr sozial benachteiligte ordentliche Mitglieder den ermÃ€Ãigten Beitrag fÃŒr jeweils ein Jahr genehmigen. </li> 
 			<br>
-			<li>	Ein gezahlter Beitrag wird nicht zurückerstattet. </li>
+			<li>	Ein gezahlter Beitrag wird nicht zurÃŒckerstattet. </li>
 			<br>
-			<li>	Gerät ein Mitglied mit der Zahlung des Beitrags in Rückstand wird dem Mitglied eine Zahlungsfrist gesetzt. 
-				Erfolgt auch auf diese Frist kein Zahlungseingang ist der Vorstand ermächtigt, 
-				ein gerichtliches Mahnverfahren einzuleiten und den Ausschluss des Mitglieds zu beschließen. </li>
+			<li>	GerÃ€t ein Mitglied mit der Zahlung des Beitrags in RÃŒckstand wird dem Mitglied eine Zahlungsfrist gesetzt. 
+				Erfolgt auch auf diese Frist kein Zahlungseingang ist der Vorstand ermÃ€chtigt, 
+				ein gerichtliches Mahnverfahren einzuleiten und den Ausschluss des Mitglieds zu beschlieÃen. </li>
 			<br>
 		</ol>
 			
-	<h2>§ 2 Beitragstabelle </h2>
+	<h2>Â§ 2 Beitragstabelle </h2>
 
   	<table border="2" width="80%" rules="all" cellpadding="10" cellspacing="10" >
     	<tr>
@@ -58,7 +58,7 @@
       	<th align="center"><b>Jahresbeitrag</b></th>
     	</tr>
     	<tr>
-      	<th align="left"><font size="-2">Fördermitglieder</font></th>
+      	<th align="left"><font size="-2">FÃ¶rdermitglieder</font></th>
       	<th align="right"><font size="-2">10,00 Euro</font></th>
       	<th align="right"><font size="-2">120,00 Euro</font></th>
       	</tr>
@@ -68,7 +68,7 @@
       	<th align="right"><font size="-2">60,00 Euro</font></th>
       	</tr>
     	<tr>
-      	<th align="left" ><font size="-2">Ermäßigter Beitrag für ordentliche Mitglieder die das 18. Lebensjahr vollendet haben.</font></th>
+      	<th align="left" ><font size="-2">ErmÃ€Ãigter Beitrag fÃŒr ordentliche Mitglieder die das 18. Lebensjahr vollendet haben.</font></th>
       	<th align="right"><font size="-2">2,00 Euro</font></th>
       	<th align="right"><font size="-2">24,00 Euro</font></th>
       	</tr>
@@ -80,8 +80,8 @@
 	</table>
 
 
-	<h2>§ 3 Inkrafttreten </h2>
-	<p>Die vorstehende Beitragsordnung wurde in der Gründungsversammlung vom 19.07.2014 beschlossen. Diese tritt im Folgemonat nach der Eintragung ins Vereinsregister in Kraft.</p>			
+	<h2>Â§ 3 Inkrafttreten </h2>
+	<p>Die vorstehende Beitragsordnung wurde in der GrÃŒndungsversammlung vom 19.07.2014 beschlossen. Diese tritt im Folgemonat nach der Eintragung ins Vereinsregister in Kraft.</p>			
 
 
   </div class="teaser">

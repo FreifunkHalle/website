@@ -1,1 +1,10 @@
-siehe <a href="https://www.freifunk-halle.net/forum/viewforum.php?f=37">Forum</a>
+<!--
+<a target=_blank href="http://mahns-chateau.de/">MahnS Chateau</a> | <a target=_blank href="http://mahns-chateau.de/?page_id=55">Oleariusstrasse 4a</a>
+-->
+
+<!--
+<a target=_blank href="http://www.rollercafe.de/">Rollercafe</a> | <a target=_blank href="https://www.google.de/maps/place/Rollercaf%C3%A9/@51.4873,11.9677,17z/data=!3m1!4b1!4m2!3m1!1s0x47a66353a6c0c609:0xe3e2267e1371d826?hl=de">Universitätsring 8</a>
+-->
+
+<a target=_blank href="http://www.diebels-am-haendelhaus.de/startseite.html">Diebels</a> | <a target=_blank href="https://www.google.de/maps/place/Diebels+am+H%C3%A4ndelhaus/@51.48424,11.96763,15z/data=!4m2!3m1!1s0x0:0x6a7df3f5db7f9540">Kleine Marktstraße 3</a>
+

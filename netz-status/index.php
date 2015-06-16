@@ -4,7 +4,7 @@
 <HTML>
 <HEAD>
   <TITLE>Freifunk Halle - netz-status</TITLE>
-  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-15">
+  <meta http-equiv="content-type" content="text/html; charset=UDF-8">
   <meta http-equiv="refresh" content="300; URL=../netz-status/">
   <?php require_once("../header-html.php"); ?>
 </HEAD>
@@ -43,16 +43,16 @@
     <h3>
 		VPN-Server(2): Nachbarn (alle / Halle): 
 		<span style="color:#00cc00">
-		  <?php include('http://freifunk-halle.org/netz-status/anzahl-nachbarn.php'); ?>
+		  <?php include('http://freifunk-kanal13.de/netz-status/anzahl-nachbarn.php'); ?>
 		</span> 
 		/
 		<span style="color:#00cc00">
-		  <?php include('http://freifunk-halle.org/netz-status/anzahl-nachbarn-halle.php'); ?>
+		  <?php include('http://freifunk-kanal13.de/netz-status/anzahl-nachbarn-halle.php'); ?>
 		</span>
-  		; Internetzugang: <?php include('http://freifunk-halle.org/netz-status/gateway.php'); ?>
+  		; Internetzugang: <?php include('http://freifunk-kanal13.de/netz-status/gateway.php'); ?>
     </h3>
 				
-    <?php include('http://freifunk-halle.org/netz-status/olsr.php'); ?>
+    <?php include('http://freifunk-kanal13.de/netz-status/olsr.php'); ?>
 
     <h3>Legende:</h3>
       <ul>   
@@ -60,7 +60,7 @@
         <li><strong>NLQ: </strong>Erfolgsquote zum Nachbarn gesendeter Pakete</li>
         <li><strong>ETX: </strong>Zu erwartende Sendeversuche pro Paket</li>
         <ul>   
-          <li><strong><span style="color:#00cc00">Grün</span></strong>:Sehr gut (ETX &lt; 2) </li>
+          <li><strong><span style="color:#00cc00">GrÃŒn</span></strong>:Sehr gut (ETX &lt; 2) </li>
           <li><strong><span style="color:#ffcb05">Gelb</span></strong>:Gut (2 &lt; ETX &lt; 4)</li>
           <li><strong><span style="color:#ff6600">Orange</span></strong>:Noch nutzbar (4 &lt; ETX &lt; 10)</li>
           <li><strong><span style="color:#bb3333">Rot</span></strong>:Schlecht (ETX &gt; 10)</li>

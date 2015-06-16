@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-15">
+  <meta http-equiv="content-type" content="text/html; charset=UDF-8">
   <title>Freifunk Halle - Willkommen</title>
   <?php require_once("header-html.php"); ?>
 </head>
@@ -21,13 +21,13 @@
     	<p>	
 		Freifunk ist ein freies, offenes, nicht-kommerzielles und unzensiertes 
 		Funknetzwerk auf WLAN-Technologie. Jeder Nutzer im Freifunknetz stellt seinen 
-		Wlan-Router für den Datenverkehr aller Nutzer zur Verfügung. 
+		Wlan-Router fÃŒr den Datenverkehr aller Nutzer zur VerfÃŒgung. 
 	</p>
 
     	<h2>Mitmachen</h2>
     	<p>	
 		Jeder kann mitmachen, auch Du. Verbreite unsere Vision eines freien und 
-		unabhängigen Netzes. Sprich mit Deinen Freunden, Bekannten und Nachbarn. 
+		unabhÃ€ngigen Netzes. Sprich mit Deinen Freunden, Bekannten und Nachbarn. 
 	</p>
 
     	<h2>Internet teilen</h2>
@@ -38,11 +38,11 @@
 
     	<h2>Sicherheit im Freifunk</h2>
     	<p>	
-		Die weltweite automatisierte verdachtsunabhängigen Massenüberwachung 
+		Die weltweite automatisierte verdachtsunabhÃ€nhÃ€ngige MassenÃŒberwachung 
 		der elektronischen Sprach- und Datenkommunikation durch die Geheimdienste 
-		gefährdet ein freies und offenes Internet.
+		gefÃ€hrdet ein freies und offenes Internet.
 		Das Freifunknetz ist ein dezentrales Funk-Mesh-Netz. 
-		Dezentrale Netze sind strukturbedingt schwerer zu überwachen. 
+		Dezentrale Netze sind strukturbedingt schwerer zu ÃŒberwachen. 
 	</p>
 
 	<h2>Quellennachweis</h2>
@@ -51,7 +51,7 @@
 		<a href="http://www.kosmonautensofa.de/" target=_blank>Philipp Seefeld</a>
 	</p>
 	<p>
-		Material auf dieser Seite wurden mit freundlicher Unterstützung vom Freifunk in Berlin erstellt.  
+		Material auf dieser Seite wurden mit freundlicher UnterstÃŒtzung vom Freifunk in Berlin erstellt.  
 	</p>
 	<p>	
 		<a href="http://freifunk.net" target="_blank">freifunk.net</a>  
@@ -71,7 +71,7 @@
 
 	<div>
 	<center>
-	<p>Was ist <b>Freifunk</b>? In <b>90</b> Sekunden erklärt!<p>
+	<p>Was ist <b>Freifunk</b>? In <b>90</b> Sekunden erklÃ€rt!<p>
 	<p>
 	</center>
 <center>

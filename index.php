@@ -1,7 +1,7 @@
 <?php
   require_once "XML/RSS.php";
-$blog_rss = "http://blog.freifunk.net/rss.xml" ;
-  $forum_rss = "https://www.freifunk-halle.net/forum/rss.php" ;
+  $blog_rss = "http://blog.freifunk.net/rss.xml" ;
+  $forum_rss = "https://freifunk-halle.org/forum/rss.php" ;
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
      "http://www.w3.org/TR/html4/loose.dtd">
@@ -38,11 +38,11 @@ $blog_rss = "http://blog.freifunk.net/rss.xml" ;
 
     	<h2>Wiki</h2>
     	<p>Im Wiki findest du Informationen und Dokumentationen zu den Themen Technik und Community.</p>
-    	<p><a href="http://www.freifunk-halle.net/mediawiki/wiki/Hauptseite">&gt;&gt; zum Wiki</a></p>
+    	<p><a href="/mediawiki/wiki/Hauptseite">&gt;&gt; zum Wiki</a></p>
 
     	<h2>Forum</h2>
     	<p>Das Forum dient zum Austausch der Freifunker. Hier kannst du Kontakt zu anderen Freifunkern aufnehmen und Fragen stellen.</p>
-    	<p><a href="http://freifunk-halle.net/forum">&gt;&gt; zum Forum</a></p>
+    	<p><a href="/forum">&gt;&gt; zum Forum</a></p>
 
     	<h2>Karte</h2>
     	<p>Auf der Karte kannst du dir das derzeitige Freifunk-Netz ansehen und herausfinden, ob es in deiner Nachbarschaft bereits andere Freifunkknoten gibt.</p>
@@ -55,11 +55,21 @@ $blog_rss = "http://blog.freifunk.net/rss.xml" ;
 	<h2>Besucherz&aumlhler</h2>
 	<p><b>Summe</b> / letzten 24 Stunden
 	<p>Hauptserver : <b><?php include("counter.php"); require_once("counter.txt"); ?></b> / <?php include("counter-aktuell.php");?>
-	<p>WLan-Nutzer : <b><?php require_once("counter-wlan-nutzer.txt"); ?></b>
+<!--	<p>Backupserver : <b><?php #require_once("http://10.62.4.1/counter.txt"); ?></b> / <?php #include("http://10.62.4.1/counter-aktuell.php"); ?>
+-->
+	<h2>Nutzerz&aumlhler Wlan</h2>
+	<p>WLan-Nutzer : <b><?php require_once("counter-wlan-nutzer.txt"); ?></b> 
+	<p>Wir zählen die Nutzung seit dem 01.01.2014.
+
+	<h2>tweets@freifunkhalle</h2>
+	<p>
+		<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/freifunkhalle" data-widget-id="378709220322840576">Tweets von @freifunkhalle </a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</p>
 
     	<h2>tweets@freifunk</h2>
-    	<p><a class="twitter-timeline"  href="https://twitter.com/freifunk"  data-widget-id="378700778258440192">Tweets von @freifunk</a>
-	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    	<p>	<a class="twitter-timeline"  href="https://twitter.com/freifunk"  data-widget-id="378700778258440192">Tweets von @freifunk</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	</p>
     	<p></p>
 
@@ -73,22 +83,39 @@ $blog_rss = "http://blog.freifunk.net/rss.xml" ;
                 <p>
                 Dies ist das <b>Internetportal des Freifunks in Halle und dem Umland</b>, sowie ein Ausgangspunkt f&uuml;r soziale, technische und
                 allgemeine Informationen rund um das Thema Freifunk und die Freifunk-Community in Halle.
-		  <p><a href="http://freifunk-halle.org" target="_top"><font size="-1">Link zum Backupserver</font></a>
+		  <p>
+
+	<!--	<a href="http://freifunk-kanal13.de" target="_top"><font size="-1">Link zum Backupserver</font></a>		-->
+
                 </p>
         </div class="teaser0">
 
-<!-- Anfang Eintrag Sommertreffen 
+<!-- 	Anfang Eintrag Netzkultur 
+
+		<br>
   	<div class="teaser">
 
-	    	<h2>Freies Freifunktreffen 2014 am Hufeisensee<font size="-2"> (Sommerfest und Gr&uuml;ndungsversammlung Freifunk Halle e.V.)</font></h2></h2>
-		<p> &#8226;  Samstag, den 19.07.2014 ab 15:00 Uhr | 
-		Ort: <a target=_blank href="https://maps.google.de/maps?f=q&ll=51.462082,12.024686&output=embed&z=16&q=tauchclub+orca+halle+ev&hnear=Schkeuditzer+Stra%C3%9Fe+70,+06116+Halle+%28Saale%29&t=h">Schkeuditzer Str. 70</a> | 
-		Details siehe <a href="https://www.freifunk-halle.net/forum/viewtopic.php?f=37&t=1792">Forum</a>  |
-		Teilnehmer bitte <a href="http://wiki.freifunk.net/Freies_Freifunktreffen_Halle" target=_blank>hier</a> oder im Forum anmelden. 
+	    	<h2>swap:NETZKULTUR 2015<font size="-2"> 24./25. April in Halle (Saale) </font></h2></h2>
+		<p>Mehr Infos zum Programm gibt es hier: <a target=_blank href="http://swap-netzkultur.de">www.swap-netzkultur.de</a> 
+		<p>Teilnahme kostet 10 €, ermäßigt 5 € für die gesammte Veranstaltung inklusive Catering und Kino. 
+		<p>Veranstalter ist die <a target=_blank href="http://www.lpb.sachsen-anhalt.de">Landeszentrale für politische Bildung des Landes Sachsen-Anhalt</a> in Kooperation mit uns und weiteren Partnern. 
 		</p>
 
   	</div class="teaser">
- Ende Eintrag Sommertreffen -->
+	 Ende Eintrag Netzkultur -->
+
+<!-- Anfang Eintrag Sommertreffen -->
+  	<div class="teaser">
+
+	    	<h2>Freies Freifunktreffen 2015 am Hufeisensee<font size="-2"> (Sommerfest)</font></h2></h2>
+		<p> &#8226;  Samstag, den 15.08.2014 ab 15:00 Uhr |  
+		Ort: <a target=_blank href="https://maps.google.de/maps?f=q&ll=51.462082,12.024686&output=embed&z=16&q=tauchclub+orca+halle+ev&hnear=Schkeuditzer+Stra%C3%9Fe+70,+06116+Halle+%28Saale%29&t=h">Schkeuditzer Str. 70</a> | 
+		Details siehe <a href="/forum/viewtopic.php?f=37&t=1920&sid=fbcca92df39dc5413fbd4519ddd2e7f4#p15231">Forum</a>  |
+		Teilnehmer bitte <a href="/forum/viewtopic.php?f=37&t=1920&sid=fbcca92df39dc5413fbd4519ddd2e7f4#p15231" target=_blank>hier</a> oder im Forum anmelden. 
+		</p>
+
+  	</div class="teaser">
+<!-- Ende Eintrag Sommertreffen -->
 
         <div class="teaser">
         <h2>N&auml;chste Treffen <font size="-2"> Kommt einfach vorbei. Jeder ist willkommen.</font></h2>
@@ -98,10 +125,9 @@ $blog_rss = "http://blog.freifunk.net/rss.xml" ;
 		<?php require_once("treffen-termin-fuer-index.php"); ?>
         </ul>
         </div class="teaser">
-	<!--<div class="teaser">
-        <h2>Wartungsarbeiten an der Karte</h2>
-        <p>   
-                Aufgrund von Änderungen an google's Maps-API, führen wir Wartungsarbeiten an der Karte druch. In dieser Zeit wird die Karte nicht verfügbar sein.
+<!--	<div class="teaser">
+        <h2>Wartungsarbeiten am Server</h2>
+        <p> Hallo liebe Community, wir wollen am Freitag Abend, den 06.02.2015, die Freifunk-Halle Webseite auf einen neuen Server umziehen. Dadurch kann es zu Ausfällen und Störungen an der Webseite und dem Internetzugang kommen. Wir hoffen, dass wir bis Samstag Abend alles wieder zum laufen bekommen haben.
         </p>
         </div>-->
 

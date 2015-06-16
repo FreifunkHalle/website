@@ -92,25 +92,25 @@ function newurl()
                                 switch (document.getElementById("zeigipid").value)
                                 {
                                         case "Halle" :
-                                                tmp = tmp.concat("104.62");
+                                                tmp = tmp.concat("10.62.1.1|10.62.4.1|10.62.7|10.62.8|10.62.9|10.62.10|10.62.11|10.62.12|10.62.13|10.62.14|10.62.15|10.62.16|10.62.17|10.62.18|10.62.19|10.62.20|10.62.21|10.62.22|10.62.23|10.62.24|10.62.25|10.62.26|10.62.27|10.62.28|10.62.29|10.62.30|10.62.31|10.62.32|10.62.33");
                                                 break;
-                                        case "Leipzig" :
-                                                tmp = tmp.concat("104.61");
+                                        case "Dessau" :
+                                                tmp = tmp.concat("10.62.41|10.62.40|10.62.1.1|10.62.4.1");
                                                 break;
-                                        case "Weimar" :
-                                                tmp = tmp.concat("10.63");
+                                        case "Halberstadt" :
+                                                tmp = tmp.concat("10.62.45|10.62.1.1|10.62.4.1");
+                                                break;
+                                        case "Wittenberg" :
+                                                tmp = tmp.concat("10.62.46|10.62.1.1|10.62.4.1");
+                                                break;
+                                        case "Eisleben" :
+                                                tmp = tmp.concat("10.62.37|10.62.1.1|10.62.4.1");
                                                 break;
                                         case "Alles" :
                                                 tmp = tmp.concat("");
                                                 break;
-                                        case "Berlin" :
-                                                tmp = tmp.concat("104.0");
-                                                break;
-                                        case "Wels" :
-                                                tmp = tmp.concat("10.46");
-                                                break;
-                                        case "HalleWels" :
-                                                tmp = tmp.concat("104.62|10.46");
+                                        case "Verein" :
+                                                tmp = tmp.concat("10.62.1.1|10.62.4.1|10.62.60");
                                                 break;
                                 }
                         }  

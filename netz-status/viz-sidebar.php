@@ -2,7 +2,7 @@
 
     	<h2>OLSR</h2>
     	<p>
-	Optimized Link State Routing, ist ein Routingprotokoll für nicht statische Ad-hoc-Netze.  
+	Optimized Link State Routing, ist ein Routingprotokoll fÃ¼r nicht statische Ad-hoc-Netze.  
 	</p>
 
    	<h2>OLSR-Viz</h2>
@@ -12,7 +12,7 @@
 
     	<h2>Browser</h2>
     	<p>
-	Das Programm läuft im Broser des Betrachters, es wird daher ein aktueller Browser benötigt.  
+	Das Programm lÃ¤uft im Broser des Betrachters, es wird daher ein aktueller Browser benÃ¶tigt.  
 	</p>
 
 	<h2>Ad-hoc-Netz</h2>
@@ -22,7 +22,7 @@
 
 	<h2>Wiresess LAN</h2>
 	<p>
-	Wireless Local Area Network ist ein drahtloses lokales Funknetz. Abgekürzt wird es als WLAN, W-LAN oder WiFi bezeichnet
+	Wireless Local Area Network ist ein drahtloses lokales Funknetz. AbgekÃ¼rzt wird es als WLAN, W-LAN oder WiFi bezeichnet
 	</p>
 
 </div id="sidebar">

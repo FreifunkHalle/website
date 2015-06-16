@@ -6,7 +6,7 @@
       <img src="../media/bilder/stromer.jpg" alt="stromer" title="stomer auf der Leiter vom Funkturm" align="" hspace="10" vspace="10" width="160" height="">
     </center>
 	<p>	Hat mit anderen zusammen das Funknetz in Kanena aufgebaut. 
-		Betreibt die Netzknoten auf der Großantenne. 
+		Betreibt die Netzknoten auf der GroÃŸantenne. 
 
   <h2>3dfx</h2>
   <p>
@@ -14,7 +14,7 @@
       <img src="../media/bilder/3dfx.jpg" alt="kwm" title="3dfx auf einem Dach" align="" hspace="10" vspace="10" width="160" height=""> 
     </center>
 	<p>	Sponsert den Hauptserver des Halle'schen Freifunknetzes und betreibt Netzknoten in der Innenstadt. 
-		Hat einige Dienste für die Server des Halle'schen Freifunks entwickelt. 
+		Hat einige Dienste fÃ¼r die Server des Halle'schen Freifunks entwickelt. 
 
   <h2>kwm </h2>
   <p>
@@ -22,7 +22,7 @@
       <img src="../media/bilder/kwm.jpg" alt="kwm" title="kwm installiert die Webcam" align="" hspace="10" vspace="10" width="160" height=""> 
     </center>
   	<p>	Sponsert den Backupserver des Halle'schen Freifunknetzes, 
-		sowie den Internetzugang nach Schweden und betreibt Netzknoten in der Südstadt. 
+		sowie den Internetzugang nach Schweden und betreibt Netzknoten in der SÃ¼dstadt. 
 		Betreibt mit anderen zusammen die Wetterstation und Webcam am Hufeisensee. 
 
   <h2>SiggiZ</h2>
@@ -30,7 +30,7 @@
 
   <h2>tox</h2>
 	<p>	Betreibt Netzknoten in der Innenstadt. 
-		Ist Softwareentwickler und hat ein paar Dienste für die Server des Halle'schen Freifunks entwickelt. 
+		Ist Softwareentwickler und hat ein paar Dienste fÃ¼r die Server des Halle'schen Freifunks entwickelt. 
 		Sponsert die Domain freifunk-halle.net. 
 
   <h2>Planung Netzausbau</h2>
@@ -40,7 +40,7 @@
     </center>
   </p>
 
-  <h2>Vortrag über Freifunk</h2>
+  <h2>Vortrag Ã¼ber Freifunk</h2>
   <p>
     <center>	
       <img src="../media/bilder/vortrag1.jpg" alt="Bild" title="" align="" hspace="10" vspace="10" width="160" height=""> 

@@ -7,7 +7,7 @@
 
   <h2>VPN-Server(1)</h2>
   <p>	
-	Der <b>primäre</b> VPN-Server stellt das Hauptgateway ins Internet.  
+	Der <b>prim&auml;re</b> VPN-Server stellt das Hauptgateway ins Internet.  
   </p>
   <p>
 	<b>Nachbarn: <span style="color:#00cc00"><?php include('anzahl-nachbarn.php'); ?></span> 
@@ -23,7 +23,7 @@
 
   <h2>VPN-Server(2)</h2>
   <p>	
-	Der <b>sekundäre</b> VPN-Server stellt das Backupgateway ins Internet. 
+	Der <b>sekund&auml;re</b> VPN-Server stellt das Backupgateway ins Internet. 
   </p>
   <p>
 	<b>Nachbarn: <span style="color:#00cc00"><?php include('http://freifunk-kanal13.de/netz-status/anzahl-nachbarn.php'); ?></span> 
@@ -37,19 +37,19 @@
   </p>
 
 
-  <h2>Serverbrücke</h2>
+  <h2>Serverbr&uuml;cke</h2>
 	<p>  
-	<b>Serverbrücke: <?php include('http://freifunk-kanal13.de/netz-status/serverbruecke.php'); ?></b>
+	<b>Serverbr&uuml;cke: <?php include('http://freifunk-kanal13.de/netz-status/serverbruecke.php'); ?></b>
 	</p>
 
   <h2>VPN-Tunnel</h2>
   <p>	
-	Wir benutzen im Halle'schen Freifunknetzwerk nur verschlüsselte VPN-Tunnel.
+	Wir benutzen im Halle'schen Freifunknetzwerk nur verschl&uuml;sselte VPN-Tunnel.
   </p>
 
-  <h2>Störerhaftung</h2>
+  <h2>St&ouml;rerhaftung</h2>
   <p>	
-	Der Internetdatenverkehr wird über die Gatewayserver umgeleitet, um die Freifunker welche ihren Internetanschluss mit anderen teilen vor der Störerhaftung zu schützen. 
+	Der Internetdatenverkehr wird &uuml;ber die Gatewayserver umgeleitet, um die Freifunker welche ihren Internetanschluss mit anderen teilen vor der St&ouml;rerhaftung zu sch&uuml;tzen. 
   </p>
 
 </div>

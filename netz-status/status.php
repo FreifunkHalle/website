@@ -14,7 +14,7 @@
 
 <hr>
 
-<?php require_once("http://104.62.4.1/netz-status/status-info.php"); ?>
+<?php require_once("http://10.62.4.1/netz-status/status-info.php"); ?>
 
 </BODY>
 </HTML>

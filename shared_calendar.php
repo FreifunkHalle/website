@@ -17,7 +17,7 @@ function addToIcs($cal, $syear, $smonth, $sday, $stime, $loc, $duration = 3, $re
     $vevent->setProperty("LOCATION", $loc);
     // property name - case independent
     $vevent->setProperty("summary", "@HAL Freifunktreffen");
-    $desc = 'Einladung zum halleschen Freifunktreffen.\nDetails siehe: <a href="https://www.freifunk-halle.net/forum/viewforum.php?f=37" >https://www.freifunk-halle.net/forum/viewforum.php?f=37';
+    $desc = 'Einladung zum halleschen Freifunktreffen.\nDetails siehe: <a href="https://www.freifunk-halle.org/forum/viewforum.php?f=37" >https://www.freifunk-halle.org/forum/viewforum.php?f=37';
     $vevent->setProperty("description", $desc);
 #$vevent->setProperty( "comment", "This is a comment" );
 #$vevent->setProperty( "attendee", "attendee1@icaldomain.net" );
@@ -47,7 +47,7 @@ function addToIcs($cal, $syear, $smonth, $sday, $stime, $loc, $duration = 3, $re
 
 function createICS() {
     $tz = "Europe/Berlin";
-    $config = array("unique_id" => "freifunk-halle.net", "TZID" => $tz);
+    $config = array("unique_id" => "freifunk-halle.org", "TZID" => $tz);
     $vcalendar = new vcalendar($config);
     $vcalendar->setProperty("method", "PUBLISH");
     $vcalendar->setProperty("x-wr-calname", "Freifunk Halle Kalender");

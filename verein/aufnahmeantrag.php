@@ -21,18 +21,18 @@
 
   <div class="teaser">
 
-	<h2>Aufnahmeantrag <font size="-1" color="blue">zum Ausfüllen und Ausdrucken</font></h2>
+	<h2>Aufnahmeantrag <font size="-1" color="blue">zum AusfÃ¼llen und Ausdrucken</font></h2>
 
 
 
-	<p>	Hier gibt es den <a href="aufnahmeantrag-person.pdf" target="_blank">Aufnahmeantrag für ordentliche Mitglieder</a> im PDF-Format zum Runterladen. 
+	<p>	Hier gibt es den <a href="aufnahmeantrag-person.pdf" target="_blank">Aufnahmeantrag fÃ¼r ordentliche Mitglieder</a> im PDF-Format zum Runterladen. 
 
-	<p>	Zur Aufnahme in den Verein als Fördermitglied ist ein formloser Antrag an die Geschäftstelle zu senden.
+	<p>	Zur Aufnahme in den Verein als FÃ¶rdermitglied ist ein formloser Antrag an die GeschÃ¤ftstelle zu senden.
 		
-	<p>	Das Formular kann am Computer ausgefüllt werden. 
-		Das ausgefüllte Formular bitte ausdrucken und unterschrieben an die Geschäftstelle des Verein senden.   
+	<p>	Das Formular kann am Computer ausgefÃ¼llt werden. 
+		Das ausgefÃ¼llte Formular bitte ausdrucken und unterschrieben an die GeschÃ¤ftstelle des Verein senden.   
 
-	<p>	Bei Kindern und Jugendlichen ist für die Aufnahme in den Verein zusätzlich die Unterschrift eines gesetzlichen Vertreters erforderlich. 
+	<p>	Bei Kindern und Jugendlichen ist fÃ¼r die Aufnahme in den Verein zusÃ¤tzlich die Unterschrift eines gesetzlichen Vertreters erforderlich. 
 
 	<p>	
 

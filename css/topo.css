@@ -1,14 +1,11 @@
 .tdl
 {
 	text-align:right;
-	padding:2px;
 	width:90px;
 }
 .tdr
 {
 	text-align:right;
-	padding:2px;
-	padding-right:5px;
 	width:90px;
 }
 .biginput
@@ -46,4 +43,6 @@
   font-size: 0.8em;
   padding: 5px;
 }
-
+#sidebar table.options {
+  padding: 0px;
+}

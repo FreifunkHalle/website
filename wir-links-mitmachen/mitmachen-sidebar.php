@@ -31,9 +31,9 @@
 
     	<h2>VPN-Tunnel</h2>
     	<p>	
-		Die VPN-Tunnel verbinden Netzknoten verschlüsselt über das Internet. 
+		Die VPN-Tunnel verbinden Netzknoten verschlÃ¼sselt Ã¼ber das Internet. 
 		Schreib bitte im Forum eine Nachricht, 
-		wenn du Dateien für VPN-Tunnel benötigst.
+		wenn du Dateien fÃ¼r VPN-Tunnel benÃ¶tigst.
 	</p>
 
     	<h2>anonym ins Internet</h2>
@@ -42,9 +42,9 @@
 	</p>
 
 	<h2>Sicherheit</h2>
-	<p>	Die weltweite, automatisierte, verdachtsunabhängigen Massenüberwachung der elektronischen Sprach- und 
-		Datenkommunikation durch die Geheimdienste gefährdet ein freies und offenes Internet. 
-		Das Freifunknetz ist ein dezentrales Funk-Netz. Dezentrale Netze sind strukturbedingt schwerer zu überwachen. 
+	<p>	Die weltweite, automatisierte, verdachtsunabhÃ¤ngigen MassenÃ¼berwachung der elektronischen Sprach- und 
+		Datenkommunikation durch die Geheimdienste gefÃ¤hrdet ein freies und offenes Internet. 
+		Das Freifunknetz ist ein dezentrales Funk-Netz. Dezentrale Netze sind strukturbedingt schwerer zu Ã¼berwachen. 
 	</p>
     	<h2>Hilfe</h2>
     	<p>	
@@ -64,7 +64,7 @@
 
 	<h2>Quellennachweis</h2>
 	<p>
-		Material auf dieser Seite wurden mit freundlicher Unterstützung vom Freifunk in Berlin erstellt.  
+		Material auf dieser Seite wurden mit freundlicher UnterstÃ¼tzung vom Freifunk in Berlin erstellt.  
 	</p>
 	<p>	
 		<a href="http://freifunk.net" target="_blank">freifunk.net</a>  

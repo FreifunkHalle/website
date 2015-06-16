@@ -1,9 +1,9 @@
 <div id="sidebar">
 	<h2>Einfach mitmachen!</h2>
     	<p>	
-		Freifunk ist nicht nur für "Techies", 
+		Freifunk ist nicht nur fÃ¼r "Techies", 
 		wir brauchen unterschiedliche Menschen, 
-		die die Idee weiter tragen und mit ihren Fähigkeiten unterstützen.	
+		die die Idee weiter tragen und mit ihren FÃ¤higkeiten unterstÃ¼tzen.	
 	</p>
 	
 
@@ -33,7 +33,7 @@
 
 	<h2>Quellennachweis</h2>
 	<p>
-		Material auf dieser Seite wurden mit freundlicher Unterstützung vom Freifunk in Berlin erstellt.  
+		Material auf dieser Seite wurden mit freundlicher UnterstÃ¼tzung vom Freifunk in Berlin erstellt.  
 	</p>
 	<p>	
 		<a href="http://freifunk.net" target="_blank">freifunk.net</a>  

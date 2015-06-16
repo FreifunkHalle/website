@@ -17,12 +17,12 @@
   	<div class="teaser">
     	<h2>Jeder kann mitmachen!</h2>
 	<h3>
-	Du brauchst keine besonderen technischen Kenntnisse, Mitmachen ist sehr einfach und sehr vielfältig. 
+	Du brauchst keine besonderen technischen Kenntnisse, Mitmachen ist sehr einfach und sehr vielfÃ¤ltig. 
 	</h3>
 	<h3>
-	Sprich mit deinem Freundeskreis, deinen Bekannten, Nachbarn, Geschäftspartner und allen Menschen die dich umgeben, und 
-	verbreite die Idee von Freifunk. Alle können Freifunker werden! 
-	Wir freuen uns über Unterstützung bei 
+	Sprich mit deinem Freundeskreis, deinen Bekannten, Nachbarn, GeschÃ¤ftspartner und allen Menschen die dich umgeben, und 
+	verbreite die Idee von Freifunk. Alle kÃ¶nnen Freifunker werden! 
+	Wir freuen uns Ã¼ber UnterstÃ¼tzung bei 
 	</h3>
     		<p><img src="../media/bilder/reden.png" style="float: right; margin: 0  align="top" hspace="20" vspace="15" width="160" height=""</p>
 	<p>
@@ -30,10 +30,10 @@
 	<ul style="list-style-type:disc">
 	<li>
 	der Erweiterung des Freifunk-Netzwerks durch das Aufstellen neuer Freifunk-Router (siehe unten) oder 
-	durch das Bereitstellen interessanter Standorte für Freifunk-Router (z.B. Dächer), 
+	durch das Bereitstellen interessanter Standorte fÃ¼r Freifunk-Router (z.B. DÃ¤cher), 
 	</li>
 	<li>
-	der Entwicklung von Infomaterial, Bannern, Transparenten, T-Shirts,... was immer dir Kreatives einfällt, 
+	der Entwicklung von Infomaterial, Bannern, Transparenten, T-Shirts,... was immer dir Kreatives einfÃ¤llt, 
 	</li>
 	
 	<li>
@@ -41,55 +41,55 @@
 	</li>
 
 	<li>
-	dem Betreiben von Diensten für die Community und der Entwicklung von Webanwendungen.
+	dem Betreiben von Diensten fÃ¼r die Community und der Entwicklung von Webanwendungen.
 	</li>
 	</ul>
 	<p>
-	Komm zum Freifunk-Treffen oder schreib im Forum. Du kannst uns auch mit Spenden unterstützen. 
+	Komm zum Freifunk-Treffen oder schreib im Forum. Du kannst uns auch mit Spenden unterstÃ¼tzen. 
 	</p>
-	<h2>Unterstützte WLan-Router und Freifunkfirmware erstellen</h2>
+	<h2>UnterstÃ¼tzte WLan-Router und Freifunkfirmware erstellen</h2>
 
 	<p>
-	 Wir empfehlen aktuell folgende Routermodelle für Freifunk. Die passende Freifunkfirmware kannst du mit dem <a target="_top" href="http://meshkit.freifunk-halle.org" title="hier kannst du dir eine Firmware erstellen"><b>Meshkit</b></a> erstellen. 
+	 Wir empfehlen aktuell folgende Routermodelle fÃ¼r Freifunk. Die passende Freifunkfirmware kannst du mit dem <a target="_top" href="http://meshkit.freifunk-halle.org" title="hier kannst du dir eine Firmware erstellen"><b>Meshkit</b></a> erstellen. 
 	</p>
 			<ul style="list-style-type:disc">
    				<li>TP-Link TL-WDR4300nd</li>
     				<li>TP-Link TL-WDR3600nd</li>
     				<li>TP-Link TL-WR842nd</li>
 			</ul>
-	<p>		<b>nd</b> bedeutet, das die Antennen am Router angeschraubt sind und somit auch gegen andere Antennen getauscht werden können. 
+	<p>		<b>nd</b> bedeutet, das die Antennen am Router angeschraubt sind und somit auch gegen andere Antennen getauscht werden kÃ¶nnen. 
 	</p>
-	<h2>Du möchtest einen Freifunk-Router aufstellen?</h2>
+	<h2>Du mÃ¶chtest einen Freifunk-Router aufstellen?</h2>
 
 <!-- level 1-->
-    		<h3>Starter: Wohnung, Geschäft, Café, Restaurant, Bar, Hotel, Kneipe,... </h3>
+    		<h3>Starter: Wohnung, GeschÃ¤ft, CafÃ©, Restaurant, Bar, Hotel, Kneipe,... </h3>
     		<p><img src="../media/bilder/level1.png" style="float: right; margin: 0  align="top" hspace="20" vspace="15" width="160" height=""</p>
 		<p>
 			<ul style="list-style-type:disc">
-			<li>Du möchtest dich mit dem Freifunk-Netz in deiner Nachbarschaft verbinden, deinen Internet-Anschluss freigeben oder den ersten Freifunk-Router in deiner Umgebung aufstellen, </li>
-			<li>besorge einen Freifunk-fähigen Router, </li>
+			<li>Du mÃ¶chtest dich mit dem Freifunk-Netz in deiner Nachbarschaft verbinden, deinen Internet-Anschluss freigeben oder den ersten Freifunk-Router in deiner Umgebung aufstellen, </li>
+			<li>besorge einen Freifunk-fÃ¤higen Router, </li>
 			<li>installiere und konfiguriere die Freifunk-Firmware, und  </li>
 			<li>stelle den Router an einem geeigneten Ort auf (z.B. Fensterbank). </li>
 			</ul>
 		</p>
 <!-- level 2-->
-    		<h3>Level 2: Balkon, hohes Gebäude, öffentlicher Platz, Park, weitläufiges Gelände,... </h3>
+    		<h3>Level 2: Balkon, hohes GebÃ¤ude, Ã¶ffentlicher Platz, Park, weitlÃ¤ufiges GelÃ¤nde,... </h3>
     		<p><img src="../media/bilder/level2.png" style="float: right; margin: 0  align="top" hspace="20" vspace="15" width="160" height=""</p>
 		<p>
 			<ul style="list-style-type:disc">
-			<li>Du möchtest das Freifunk-Netz auf ein größeres Gebiet erweitern. Dazu eignen sich insbesondere höher gelegene Standorte (z.B. Balkone oder Dächer). </li>
-			<li>Zur Überbrückung weiter entfernten (bis 5km) Freifunk-Router benötigst du Richtantennen. Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt. </li>
+			<li>Du mÃ¶chtest das Freifunk-Netz auf ein grÃ¶ÃŸeres Gebiet erweitern. Dazu eignen sich insbesondere hÃ¶her gelegene Standorte (z.B. Balkone oder DÃ¤cher). </li>
+			<li>Zur ÃœberbrÃ¼ckung weiter entfernten (bis 5km) Freifunk-Router benÃ¶tigst du Richtantennen. FÃ¼r stabile Verbindungen wird eine freie Sicht zum entfernten Router benÃ¶tigt. </li>
 			</ul>
 		</p>
 <!-- level 3 -->
-    		<h3>Backbone: Dach, Dachgeschoss, hohes Gebäude, öffentliches Gebäude, Rathaus, Stadtwerke, Kirchturm, Schornstein, Turm,... </h3>
+    		<h3>Backbone: Dach, Dachgeschoss, hohes GebÃ¤ude, Ã¶ffentliches GebÃ¤ude, Rathaus, Stadtwerke, Kirchturm, Schornstein, Turm,... </h3>
     		<p><img src="../media/bilder/level3.png" style="float: right; margin: 0  align="top" hspace="20" vspace="15" width="160" height=""</p> 
 		<p>
 			<ul style="list-style-type:disc">
-			<li>Du möchtest das <b>Rückgrat</b> des Freifunk-Netzes stärken, 
+			<li>Du mÃ¶chtest das <b>RÃ¼ckgrat</b> des Freifunk-Netzes stÃ¤rken, 
 			indem du stabile Richtfunk-Verbindungen zu weit entfernten Freifunk-Routern aufbaust (bis 10km). 
-			Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt. </li>
-			<li>Besorge mehrere Freifunk-fähige Outdoor-Router und Richtantennen. </li>
+			FÃ¼r stabile Verbindungen wird eine freie Sicht zum entfernten Router benÃ¶tigt. </li>
+			<li>Besorge mehrere Freifunk-fÃ¤hige Outdoor-Router und Richtantennen. </li>
 			<li>Die neuen Verbindungen solltest du mit den Freifunkern planen, die die entfernten Router betreiben. </li>
 			</ul>
 		</p>
@@ -101,20 +101,20 @@
 	Wenn es bei dir noch keinen Freifunk-Router in der Nachbarschaft gibt, dann sei die oder der Erste! 
 	</p>
 
-<h2>Störerhaftung und VPN-Tunnel</h2>
+<h2>StÃ¶rerhaftung und VPN-Tunnel</h2>
 	<h3>
 		 
 	</h3>
     		<p><img src="../media/bilder/lisa-recht.jpg" style="float: right; margin: 0  align="top" hspace="20" vspace="15" width="160" height=""</p>
 	<p>
-	Damit Du dir keine Sorgen wegen der Störerhaftung machen musst, leiten wir den Internetdatenverkehr über unsere Server um. 
+	Damit Du dir keine Sorgen wegen der StÃ¶rerhaftung machen musst, leiten wir den Internetdatenverkehr Ã¼ber unsere Server um. 
 	Deine IP-Adresse wird dadurch verschleiert. 
 	</p>
 	<p>
-	VPN-Tunnel verbinden Freifunk-Router über das Internet mit den Freifunk-Servern. 
+	VPN-Tunnel verbinden Freifunk-Router Ã¼ber das Internet mit den Freifunk-Servern. 
 	</p>
 	<p>
-	Damit der Datenverkehr ins und über das Internet sicher ist, verschlüsseln wir die Daten bei der Übertragung in VPN-Tunneln. 
+	Damit der Datenverkehr ins und Ã¼ber das Internet sicher ist, verschlÃ¼sseln wir die Daten bei der Ãœbertragung in VPN-Tunneln. 
 	</p>
 	
     	<h2>N&auml;chste Treffen</h2>	

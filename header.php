@@ -3,12 +3,12 @@
   <ul id="menu">
 <!-- Knopf 1 -->
     <li class="firstlink">
-      <a href="/" title="Startseite">Startseite</a>
+      <a href="/index.php" title="Startseite">Startseite</a>
     </li>
 
 <!-- Knopf 2 -->
     <li class="dropdown" >
-      <a class="menulink" href="https://freifunk-halle.net/forum" title="Das Forum dient zum Austausch der Freifunker in Halle. Hier kann man Kontakt zu anderen Freifunkern aufnehmen und Fragen stellen.">Forum</a>
+      <a class="menulink" href="/forum" title="Das Forum dient zum Austausch der Freifunker in Halle. Hier kann man Kontakt zu anderen Freifunkern aufnehmen und Fragen stellen.">Forum</a>
       <ul class="dropdown-menulink">
         <li>
           <a href="/mediawiki/wiki/Hauptseite" title="Im Wiki gibt es Informationen und Dokumentationen zu den Themen Technik und Community.">Wiki</a>
@@ -30,7 +30,7 @@
           <a href="/wir-links-mitmachen/technik.php" title="Technik der Netzwerke">Technik</a>
         </li>
 	<li>
-          <a href="http://meshkit.freifunk-halle.org" title="hier kannst du dir eine Firmware erstellen">Meshkit</a>
+          <a href="http://meshkit.freifunk-halle.org" title="hier kannst du dir eine Firmware erstellen">Firmware (Meshkit)</a>
         </li> 
 	<li>
           <a href="/wir-links-mitmachen/wir.php" title="Wer wir sind">&Uuml;ber uns</a>
@@ -58,14 +58,8 @@
           <a href="/netz-status/dienste.php" title="Jeder kann im Freifunknetz eigene Dienste anbieten und anderen zug&auml;nglich machen. F&uuml;r den Inhalt der Dienste ist der jeweilige Betreiber verantwortlich.">Dienste</a>
         </li>
 	<li>
-          <a href="/vnstat" title="Übertragungsstatistik auf dem Hauptserver.">Statistik Server 1</a>
+          <a href="//freifunk-halle.org/vnstat" title="Übertragungsstatistik auf dem Hauptserver.">Statistik</a>
         </li>
-	<li>
-          <a href="//freifunk-halle.org/vnstat" title="Übertragungsstatistik auf dem Backupserver.">Statistik Server 2</a>
-        </li>
-	<li>
-          <a href="/webalizer/besucher.php" title="Besucherstatistik">Besucher Herkunft</a>
-        </li> 
       </ul>
     </li>
 
@@ -87,7 +81,10 @@
           <a target="_blank" href="http://wetter.webcam-hufeisensee.de" title="Wettermessdaten am Hufeisensee">Wetterstation</a>
         </li>
 	<li>
-          <a target="_blank" href="https://freifunk-halle.org:8443/" title="freie unzensierte Suche">Freie Suche</a>
+          <a target="_blank" href="https://freifunk-kanal13.de:8443/" title="freie unzensierte Suche">Freie Suche</a>
+        </li>
+	<li>
+          <a target="_blank" href="https://freifunk-kanal13.de" title="Backupserver">Backupserver</a>
         </li>
       </ul>
     </li>

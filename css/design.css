@@ -1,5 +1,5 @@
 body {
-  margin: 0 10% ;
+  margin: 0 5% ;
   background: #f9f9f9 url("/media/bg.gif") ;
   font-size: 99% ;
   font-family: verdana, arial, sans-serif ;
@@ -78,7 +78,6 @@ a {
 
 #header-float-right-fill {
   flex:auto; 
-  height:4.1em;
   background: #ffcb05 url("/media/menu2.gif") repeat-x ;
   z-index: 10;
 }
@@ -262,4 +261,10 @@ a {
 #footer a {
   color: #fff ;
   text-decoration: none ;
+}
+.color-bg-lightred {
+  background-color:#FF9999;
+}
+.color-bg-lightgreen {
+  background-color:#66CC66;
 }

@@ -87,15 +87,12 @@
 	#sidebar {
 		width: 25%;
 		float: right;
-		margin-right:2px;
 		overflow:auto;
 		margin-bottom:2px;
 	}
 	
 	#map {
 		margin-right:230px;
-		margin-left:2px;
-		margin-bottom: 2px;
 		border: 1px solid #cccccc;
 		border-radius: 6px;
                 overflow: hidden;

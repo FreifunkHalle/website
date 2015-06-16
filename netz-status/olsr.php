@@ -63,12 +63,12 @@
 	$lq=number_format($link["linkQuality"],3);
 	$nlq=number_format($link["neighborLinkQuality"],3);
 	$etx=etx($link["linkQuality"],$link["neighborLinkQuality"]);
-	$name=shell_exec("dig  @10.62.2.131 -x ".$address." +short");
+	$name=shell_exec("dig  @10.62.28.33 -x ".$address." +short");
 	$name=substr($name,0,strlen($name)-2);
 	if ($color) $colorstr="class=\"rowstyle-1\"" ; else $colorstr="";
 	
-	echo "<tr ".$colorstr."><td><a href=\"http://".$address."/cgi-bin-nodes.html\">".$address."</a></td>"
-	."<td><a href=\"http://".$name."/cgi-bin-nodes.html\">".$name."</a></td>"
+	echo "<tr ".$colorstr."><td><a target='_blank'  href=\"http://".$address."/cgi-bin-nodes.html\">".$address."</a></td>"
+	."<td><a target='_blank' href=\"http://".$address."/cgi-bin-nodes.html\">".$name."</a></td>"
 	."<td>".$link["localIP"]."</td>"
 	."<td>".$lq."</td>"
 	."<td>".$nlq."</td>"

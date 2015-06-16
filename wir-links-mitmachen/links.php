@@ -19,8 +19,8 @@
 		<h2>Linkempfehlungen </h2>
 		<h3>Projekte im Freifunk Halle</h3>
 		<ol>
-		    <li><a href="http://freifunk-halle.net" target="_blank" title="primär Server des Halle'schen Freifunknetzes">freifunk-halle.de</a></li>
-		    <li><a href="http://freifunk-halle.org" target="_blank" title="sekundär Server des Halle'schen Freifunknetzes">freifunk-halle.org</a></li>
+		    <li><a href="http://freifunk-halle.net" target="_blank" title="primÃ¤r Server des Halle'schen Freifunknetzes">freifunk-halle.de</a></li>
+		    <li><a href="http://freifunk-halle.org" target="_blank" title="sekundÃ¤r Server des Halle'schen Freifunknetzes">freifunk-halle.org</a></li>
 		    <li><a href="https://github.com/FreifunkHalle" target="_blank" title="Software des Halle'schen Freifunk auf Github">https://github.com/FreifunkHalle</a></li>
 		    <li><a href="http://webcam-hufeisensee.de" target="_blank" title="Webcam am Hufeisensee">Webcam am Hufeisensee</a></li>
 		    <li><a href="http://wetter.webcam-hufeisensee.de" target="_blank" title="Wettermessdaten vom Hufeisensee">Wetterstation am Hufeisensee</a></li>
@@ -36,8 +36,8 @@
 		    <li><a href="http://augsburg.freifunk.net" target="_blank" title="Freifunk Augsburg">freifunk Augsburg</a></li>
 		    <li><a href="http://berlin.freifunk.net" target="_blank" title="Seiten des Berliner Freifunknetzes">Freifunk Berlin</a></li>
 		    <li><a href="http://freifunk-potsdam.de" target="_blank" title="Freifunk">Freifunk Potsdam</a> </li>
-		    <li><a href="http://hamburg.freifunk.net" target="_blank" title="Seiten des Hamburger Freifunknetzes">Freifunk Hamburg</a> von 0 auf über 400 Knoten in einem Jahr</li>
-		    <li><a href="http://www.weimarnetz.de" target="_blank" title="Webseite von Freifunk in Weimar — Das freie Bürger-WLAN!">Weimarnetz e.V.</a></li>
+		    <li><a href="http://hamburg.freifunk.net" target="_blank" title="Seiten des Hamburger Freifunknetzes">Freifunk Hamburg</a> von 0 auf Ã¼ber 400 Knoten in einem Jahr</li>
+		    <li><a href="http://www.weimarnetz.de" target="_blank" title="Webseite von Freifunk in Weimar Â— Das freie BÃ¼rger-WLAN!">Weimarnetz e.V.</a></li>
 		</ol>
 
 		<h3>IC-VPN </h3>
@@ -46,7 +46,7 @@
 		    <li><a href="http://vpn.berlin.freifunk.net/tinc_icvpn.png" target="_blank" title="aktueller Status des IC-VPN">Freifunk IC-VPN Grafik (Berlin)</a></li>
 		</ol>
 
-		<h3>Links zu Funkfeuer in Österreich</h3>
+		<h3>Links zu Funkfeuer in Ã–sterreich</h3>
 		<ol>
 		    <li><a href="http://graz.funkfeuer.at" target="_blank" title="">Funkfeuer Graz</a></li>
 		    <li><a href="http://wels.funkfeuer.at" target="_blank" title="">Funkfeuer Wels</a></li>
@@ -54,7 +54,7 @@
 		    <li><a href="http://weststmk.funkfeuer.at" target="_blank" title="">Funkfeuer Weststeiermark</a></li>
 		</ol>
 
-		<h3>Firmware für den Router</h3>
+		<h3>Firmware fÃ¼r den Router</h3>
 		<ol>
 		    <li><a href="http://meshkit.freifunk.net" target="_blank" title="Bitte die Beschreibung im Wiki beachten!">Meshkit</a></li>
 		</ol>

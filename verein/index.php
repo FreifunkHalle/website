@@ -27,35 +27,35 @@
 
 	<p>
 
-<img src="2014-07-19-Foerderverein-klein.jpg" alt="Gründungsmitglieder" title="Gründungsmitglieder" align="" border="1" hspace="10" vspace="10" width="100%" height="">
+<img src="2014-07-19-Foerderverein-klein.jpg" alt="GrÃ¼ndungsmitglieder" title="GrÃ¼ndungsmitglieder" align="" border="1" hspace="10" vspace="10" width="100%" height="">
 
 	<p>
 
 <!-- Start Einleitung -->
 
-	<p>	Der Verein sieht seine Aufgabe in der Förderung freier und offener Kommunikationsinfrastrukturen. 
+	<p>	Der Verein sieht seine Aufgabe in der FÃ¶rderung freier und offener Kommunikationsinfrastrukturen. 
 
 	<p><b>	Freie (Funk-)Netze sind WLAN-basierte Funknetze, die nicht von kommerziellen Anbietern, sondern von Privatpersonen, 
-		Vereinen oder ähnlichen Organisationen angeboten werden. Die Benutzer sind auch gleichzeitig die Betreiber der Computernetzwerke, 
-		die von einfachen Heimnetzwerken ausgehend Häuser, Stadtteile, Dörfer oder ganze Städte vernetzen können. 
+		Vereinen oder Ã¤hnlichen Organisationen angeboten werden. Die Benutzer sind auch gleichzeitig die Betreiber der Computernetzwerke, 
+		die von einfachen Heimnetzwerken ausgehend HÃ¤user, Stadtteile, DÃ¶rfer oder ganze StÃ¤dte vernetzen kÃ¶nnen. 
 	</b>	[Quelle: <a href="http://de.wikipedia.org/wiki/Freies_Funknetz" target=_blank>Wikipedia</a>, Stand 26.02.2014]
 
-	<p>	Um die Idee weiter zu verbreiten und den Aufbau freier Netze zu fördern, brauchen wir Unterstützung. 
+	<p>	Um die Idee weiter zu verbreiten und den Aufbau freier Netze zu fÃ¶rdern, brauchen wir UnterstÃ¼tzung. 
 		Du kannst uns finanziell oder mit Sachmitteln helfen. 	
 	<p><b>	Freifunk ist eine nicht-kommerzielle Initiative im deutschen Sprachraum. 
 		Sie widmet sich dem Aufbau und Betrieb selbstverwalteter lokaler Computer-Netzwerke als freies Funknetz. 
-		Hauptzielsetzungen sind ein hoher Grad an Zensurresistenz, eine Förderung von lokaler Kommunikation und ein möglichst dezentraler Aufbau. 
-		Freifunk baut auf dem <a href="../wir-links-mitmachen/regeln.php">Picopeering-Agreement</a> auf, das für ein diskriminierungsfreies Netzwerk sorgen soll 
-		(siehe <a href="http://de.wikipedia.org/wiki/Netzneutralit%C3%A4t" target=_blank>Netzneutralität</a>). 
-		Weiterhin ist den Betreibern wichtig, dass Anonymität gewährleistet ist und dass keine Überwachung stattfinden kann. 
+		Hauptzielsetzungen sind ein hoher Grad an Zensurresistenz, eine FÃ¶rderung von lokaler Kommunikation und ein mÃ¶glichst dezentraler Aufbau. 
+		Freifunk baut auf dem <a href="../wir-links-mitmachen/regeln.php">Picopeering-Agreement</a> auf, das fÃ¼r ein diskriminierungsfreies Netzwerk sorgen soll 
+		(siehe <a href="http://de.wikipedia.org/wiki/Netzneutralit%C3%A4t" target=_blank>NetzneutralitÃ¤t</a>). 
+		Weiterhin ist den Betreibern wichtig, dass AnonymitÃ¤t gewÃ¤hrleistet ist und dass keine Ãœberwachung stattfinden kann. 
 	</b>	[Quelle: <a href="http://de.wikipedia.org/wiki/Freifunk" target=_blank>Wikipedia</a>, Stand 26.02.2014] 
 
-	<p>	Du wills bei <b>Freifunk Halle</b> mitmachen, dafür musst du nicht Mitglied im <b>Förderverein Freifunk Halle e.V.</b> sein. 
-		Bei dem Projekt <b>Freifunk Halle</b> kann jeder mitmachen. Der Verein unterstützt das Projekt Freifunk in Halle und dem Umland. 
-		Freifunk Halle und der Verein sind unabhängig von einander. 
+	<p>	Du wills bei <b>Freifunk Halle</b> mitmachen, dafÃ¼r musst du nicht Mitglied im <b>FÃ¶rderverein Freifunk Halle e.V.</b> sein. 
+		Bei dem Projekt <b>Freifunk Halle</b> kann jeder mitmachen. Der Verein unterstÃ¼tzt das Projekt Freifunk in Halle und dem Umland. 
+		Freifunk Halle und der Verein sind unabhÃ¤ngig von einander. 
 
-	<p>	Wenn du einen regelmäßigen Beitrag zur Förderung des Projektes <b>Freifunk in Halle</b> leisten möchtest, <br>
-		werde Mitglied im  <b>Förderverein Freifunk Halle e.V.</b> oder unterstütze die Arbeit des Verein durch Spenden.
+	<p>	Wenn du einen regelmÃ¤ÃŸigen Beitrag zur FÃ¶rderung des Projektes <b>Freifunk in Halle</b> leisten mÃ¶chtest, <br>
+		werde Mitglied im  <b>FÃ¶rderverein Freifunk Halle e.V.</b> oder unterstÃ¼tze die Arbeit des Verein durch Spenden.
 
 
 <!-- Ende Einleitung -->

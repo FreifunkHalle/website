@@ -20,12 +20,23 @@
 
   <div class="teaser">
 
+    <h2>F√∂rderverein Freifunk Halle e.V. bei Radio Corax</h2>
+    <p>
+      <center>
+        <video src="../media/2015_02_20_Freifunk.mp3" type="audio/mp3" width="100%" height="40" title="Interview √ºber Freifunk in Halle" poster="../media/bilder/" autobuffer controls>
+        <div>Schade hier k√§me ein Audio, wenn Ihr 
+             Browser HTML5 Unterst√ºtzung h√§tte, wie z.B. der 
+             aktuelle Firefox</div>
+        </video>
+      </center>
+	<p>
+
     <h2>Interview Freifunk Halle</h2>
     <p>
       <center>
-        <video src="../media/Freifunk_Halle_Interview_Loop.webm" type="video/webm" width="100%" height="" title="Interview ¸ber Freifunk in Halle" poster="../media/bilder/3dfx.jpg" autobuffer controls>
-        <div>Schade ñ hier k‰me ein Video, wenn Ihr 
-             Browser HTML5 Unterst¸tzung h‰tte, wie z.B. der 
+        <video src="../media/Freifunk_Halle_Interview_Loop.webm" type="video/webm" width="100%" height="" title="Interview √ºber Freifunk in Halle" poster="../media/bilder/3dfx.jpg" autobuffer controls>
+        <div>Schade ¬ñ hier k√§me ein Video, wenn Ihr 
+             Browser HTML5 Unterst√ºtzung h√§tte, wie z.B. der 
              aktuelle Firefox</div>
         </video>
       </center>
@@ -34,9 +45,9 @@
 <h2>Freifunk Halle beim Cryptoswap 2014</h2>
     <p>
       <center>
-        <video src="../media/Cryptoswap_Freifunk_in_Halle_und_Magdeburg.webm" type="video/webm" width="100%" height="" title="Vortrag ¸ber Freifunk auf der Cryptoswap 2014" poster="../media/bilder/3dfx-vortrag.jpg" autobuffer controls>
-        <div>Schade <96> hier k‰me ein Video, wenn Ihr
-             Browser HTML5 Unterst¸tzung h‰tte, wie z.B. der
+        <video src="../media/Cryptoswap_Freifunk_in_Halle_und_Magdeburg.webm" type="video/webm" width="100%" height="" title="Vortrag √ºber Freifunk auf der Cryptoswap 2014" poster="../media/bilder/3dfx-vortrag.jpg" autobuffer controls>
+        <div>Schade <96> hier k√§me ein Video, wenn Ihr
+             Browser HTML5 Unterst√ºtzung h√§tte, wie z.B. der
              aktuelle Firefox</div>
         </video>
       </center>
@@ -46,8 +57,8 @@
     <p>
       <center>
         <video src="../media/freies-netz.webm" type="video/webm" width="100%" height="" title="Freies Netz zum Selber- und Mitmachen" poster="../media/freies-netz.jpg" autobuffer controls>
-	 <div>Schade <96> hier k‰me ein Video, wenn Ihr
-             Browser HTML5 Unterst¸tzung h‰tte, wie z.B. der
+	 <div>Schade <96> hier k√§me ein Video, wenn Ihr
+             Browser HTML5 Unterst√ºtzung h√§tte, wie z.B. der
              aktuelle Firefox</div>
         </video>
       </center>
@@ -55,7 +66,7 @@
 
 <!-- Start Netzknoten Beispiele -->
 
-	<h2>Beispiele f¸r Netzknoten</h2>
+	<h2>Beispiele f√ºr Netzknoten</h2>
 
   	<table border="0" cellpadding="10" cellspacing="10" width="100%">
     	<tr>
@@ -71,13 +82,13 @@
 
 	<tr>
       	<td align="center"><img src="../media/bilder/testbox.olsr.jpg" alt="" title="Netzknoten Testbox" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>
-      	<td align="center"><img src="../media/bilder/muster-wetterfest.jpg" alt="" title="Netzknoten Beispiel f¸r Outdoor Einsatz" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>
+      	<td align="center"><img src="../media/bilder/muster-wetterfest.jpg" alt="" title="Netzknoten Beispiel f√ºr Outdoor Einsatz" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>
       	<td align="center"><img src="../media/bilder/funkturm.jpg" alt="" title="Netzknoten Testbox" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>   
  	</tr>
     	<tr>
       	<td align="center" valign="top"><b>testbox.olsr</b></td>
       	<td align="center" valign="top"><b>Muster wetterfest</b></td>
-      	<td align="center" valign="top"><b>Groﬂantenne</b></td>
+      	<td align="center" valign="top"><b>Gro√üantenne</b></td>
     	</tr>
 
 	<tr>
@@ -86,7 +97,7 @@
       	<td align="center"><img src="../media/bilder/funkturm.olsr.jpg" alt="" title="" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>   
  	</tr>
     	<tr>
-      	<td align="center" valign="top"><b>Groﬂantenne</b></td>
+      	<td align="center" valign="top"><b>Gro√üantenne</b></td>
       	<td align="center" valign="top"><b>Wetterstation am Hufeisensee</b></td>
       	<td align="center" valign="top"><b>Webcam am Hufeisensee</b></td>
     	</tr>
@@ -104,13 +115,13 @@
 
 	<tr>
       	<td align="center"><img src="../media/bilder/dachboden1.jpg" alt="" title="" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>
-<!--      	<td align="center"><img src="../media/bilder/" alt="" title="" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>
-      	<td align="center"><img src="../media/bilder/" alt="" title="" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>   -->
+      	<td align="center"><img src="../media/bilder/orca.ffhal.jpg" alt="" title="" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>
+      	<td align="center"><img src="../media/bilder/orca2.ffhal.jpg" alt="" title="" align="" border="3" hspace="10" vspace="10" width="80%" height=""></td>
  	</tr>
     	<tr>
       	<td align="center" valign="top"><b>auf dem Dachboden</b></td>
-<!--      	<td align="center" valign="top"><b></b></td>
-      	<td align="center" valign="top"><b></b></td>	-->
+      	<td align="center" valign="top"><b>TC Orca</b></td>
+      	<td align="center" valign="top"><b>TC Orca</b></td>
     	</tr>
   	</table>
 

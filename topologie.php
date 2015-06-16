@@ -31,7 +31,7 @@
 			</tr>
 			<tr>
 			  <td class="tdl" onmouseover="showToolTip('tt_groesse')" onmouseout="hideToolTip()">
-			    Größe in Zoll:
+			    GrÃ¶ÃŸe in Zoll:
 			  </td>
 			  <td class="tdr">
 			     <input type="text" name="groesse" class="biginput" id="groesse">
@@ -104,10 +104,13 @@
 			  <td class="tdr" style="" rowspan="2">
 			     <input type="text" name="zeigiptxt" style="display:none;float:right;" id="zeigiptxtid" class="biginput">
 				 <select name="zeigip" size="1" id="zeigipid" class="biginput" style="float:right;">
-				   <option selected value="Halle">Halle</option>
-				   <option value="Wels">Wels</option>
-				   <option value="HalleWels">Halle & Wels</option>
-				   <option value="Alles">Alles</option>
+				   <option selected value="Alles">Alles</option>
+				   <option value="Halle">Halle</option>
+				   <option value="Dessau">Dessau</option>
+				   <option value="Wittenberg">Wittenberg</option>
+				   <option value="Halberstadt">Halberstadt</option>
+				   <option value="Eisleben">Eisleben</option>
+				   <option value="Verein">betreute Knoten</option>
 				 </select>
 			  </td>
 			</tr>

@@ -1,10 +1,10 @@
 <?php 
+$out=shell_exec("if (test -e /sys/class/net/eth0 ) ; then echo up; else echo down; fi");
 
-$out=shell_exec("/etc/init.d/openvpn status berlin-uplink"); 
-
-$out = str_replace("* VPN 'berlin-uplink' is not running", "<font color='#FF0000'>ist ausgefallen!</font>", $out);
-$out = str_replace("* VPN 'berlin-uplink' is running", "<font color='#00C000'>l&auml;uft</font>", $out);  
+$out = str_replace("down", "<font color='#FF0000'>ist ausgefallen!</font>", $out);
+$out = str_replace("up", "<font color='#00C000'>läuft</font>", $out);
 
 echo $out; 
 
 ?>
+

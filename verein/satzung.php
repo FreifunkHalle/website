@@ -3,8 +3,8 @@
 
 <HTML>
 <HEAD>
-  <TITLE>Förderverein - Satzung</TITLE>
-  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-15">
+  <TITLE>F&ouml;rderverein - Satzung</TITLE>
+  <meta http-equiv="content-type" content="text/html; charset=UDF-8">
   <?php require_once("../header-html.php"); ?>
 </HEAD>
 <BODY>

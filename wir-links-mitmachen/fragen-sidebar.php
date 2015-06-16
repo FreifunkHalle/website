@@ -8,7 +8,7 @@
 
     	<h2>VPN-Tunnel</h2>
     	<p>	
-		Die VPN-Tunnel verbinden Netzknoten verschlüsselt über das Internet.
+		Die VPN-Tunnel verbinden Netzknoten verschlÃ¼sselt Ã¼ber das Internet.
 	</p>
 
     	<h2>Hilfe</h2>
@@ -28,7 +28,7 @@
 
 	<h2>Quellennachweis</h2>
 	<p>
-		Material auf dieser Seite wurden mit freundlicher Unterstützung vom Freifunk in Berlin erstellt.  
+		Material auf dieser Seite wurden mit freundlicher UnterstÃ¼tzung vom Freifunk in Berlin erstellt.  
 	</p>
 	<p>	
 		<a href="http://freifunk.net" target="_blank">freifunk.net</a>  
